@@ -1,0 +1,19 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {"url": "https://raw.githubusercontent.com/UrenHuang/Assignment-2/main/data_EuropeanUnion.csv"},
+    "width": 400, "height": 400,
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "timeUnit": "yearmonth", "field": "date",
+        "axis": {"domain": true, "format": "%Y-%m"}
+      },
+      "y": {
+        "aggregate": "sum", "field": "total_vaccinations",
+        "axis": "total_vaccinations",
+        "stack": "normalize"
+  
+      },
+      "color": {"field":"vaccine", "scale":{"scheme": "tableau10"}}
+    }
+  }
