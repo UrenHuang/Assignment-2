@@ -1,4 +1,4 @@
-location,date,vaccine,total_vaccinations
+country,date,vaccine,total_vaccinations
 France,2020/12/27,Pfizer/BioNTech,403
 France,2020/12/28,Pfizer/BioNTech,827
 France,2020/12/29,Pfizer/BioNTech,1098
