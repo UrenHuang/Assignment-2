@@ -1,0 +1,1723 @@
+,location,date,vaccine,total_vaccinations
+15937,European Union,2020/12/27,Johnson&Johnson,0
+15938,European Union,2020/12/27,Moderna,11
+15939,European Union,2020/12/27,Oxford/AstraZeneca,0
+15940,European Union,2020/12/27,Pfizer/BioNTech,34349
+15941,European Union,2020/12/27,Sinopharm/Beijing,0
+15942,European Union,2020/12/27,Sputnik V,0
+15943,European Union,2020/12/28,Johnson&Johnson,0
+15944,European Union,2020/12/28,Moderna,14
+15945,European Union,2020/12/28,Oxford/AstraZeneca,0
+15946,European Union,2020/12/28,Pfizer/BioNTech,58380
+15947,European Union,2020/12/28,Sinopharm/Beijing,0
+15948,European Union,2020/12/28,Sputnik V,0
+15949,European Union,2020/12/29,Johnson&Johnson,0
+15950,European Union,2020/12/29,Moderna,17
+15951,European Union,2020/12/29,Oxford/AstraZeneca,1
+15952,European Union,2020/12/29,Pfizer/BioNTech,115388
+15953,European Union,2020/12/29,Sinopharm/Beijing,0
+15954,European Union,2020/12/29,Sputnik V,0
+15955,European Union,2020/12/30,Johnson&Johnson,0
+15956,European Union,2020/12/30,Moderna,25
+15957,European Union,2020/12/30,Oxford/AstraZeneca,1
+15958,European Union,2020/12/30,Pfizer/BioNTech,191735
+15959,European Union,2020/12/30,Sinopharm/Beijing,0
+15960,European Union,2020/12/30,Sputnik V,0
+15961,European Union,2020/12/31,Johnson&Johnson,0
+15962,European Union,2020/12/31,Moderna,26
+15963,European Union,2020/12/31,Oxford/AstraZeneca,1
+15964,European Union,2020/12/31,Pfizer/BioNTech,273712
+15965,European Union,2020/12/31,Sinopharm/Beijing,0
+15966,European Union,2020/12/31,Sputnik V,0
+15967,European Union,2021/1/1,Johnson&Johnson,1
+15968,European Union,2021/1/1,Moderna,81
+15969,European Union,2021/1/1,Oxford/AstraZeneca,4
+15970,European Union,2021/1/1,Pfizer/BioNTech,334447
+15971,European Union,2021/1/1,Sinopharm/Beijing,0
+15972,European Union,2021/1/1,Sputnik V,0
+15973,European Union,2021/1/2,Johnson&Johnson,1
+15974,European Union,2021/1/2,Moderna,86
+15975,European Union,2021/1/2,Oxford/AstraZeneca,4
+15976,European Union,2021/1/2,Pfizer/BioNTech,424591
+15977,European Union,2021/1/2,Sinopharm/Beijing,0
+15978,European Union,2021/1/2,Sputnik V,0
+15979,European Union,2021/1/3,Johnson&Johnson,1
+15980,European Union,2021/1/3,Moderna,97
+15981,European Union,2021/1/3,Oxford/AstraZeneca,4
+15982,European Union,2021/1/3,Pfizer/BioNTech,484409
+15983,European Union,2021/1/3,Sinopharm/Beijing,0
+15984,European Union,2021/1/3,Sputnik V,0
+15985,European Union,2021/1/4,Johnson&Johnson,25
+15986,European Union,2021/1/4,Moderna,122
+15987,European Union,2021/1/4,Oxford/AstraZeneca,4
+15988,European Union,2021/1/4,Pfizer/BioNTech,618377
+15989,European Union,2021/1/4,Sinopharm/Beijing,0
+15990,European Union,2021/1/4,Sputnik V,0
+15991,European Union,2021/1/5,Johnson&Johnson,26
+15992,European Union,2021/1/5,Moderna,125
+15993,European Union,2021/1/5,Oxford/AstraZeneca,4
+15994,European Union,2021/1/5,Pfizer/BioNTech,778957
+15995,European Union,2021/1/5,Sinopharm/Beijing,0
+15996,European Union,2021/1/5,Sputnik V,0
+15997,European Union,2021/1/6,Johnson&Johnson,26
+15998,European Union,2021/1/6,Moderna,136
+15999,European Union,2021/1/6,Oxford/AstraZeneca,7
+16000,European Union,2021/1/6,Pfizer/BioNTech,942929
+16001,European Union,2021/1/6,Sinopharm/Beijing,0
+16002,European Union,2021/1/6,Sputnik V,0
+16003,European Union,2021/1/7,Johnson&Johnson,29
+16004,European Union,2021/1/7,Moderna,145
+16005,European Union,2021/1/7,Oxford/AstraZeneca,9
+16006,European Union,2021/1/7,Pfizer/BioNTech,1146523
+16007,European Union,2021/1/7,Sinopharm/Beijing,0
+16008,European Union,2021/1/7,Sputnik V,0
+16009,European Union,2021/1/8,Johnson&Johnson,42
+16010,European Union,2021/1/8,Moderna,448
+16011,European Union,2021/1/8,Oxford/AstraZeneca,185
+16012,European Union,2021/1/8,Pfizer/BioNTech,2618485
+16013,European Union,2021/1/8,Sinopharm/Beijing,0
+16014,European Union,2021/1/8,Sputnik V,0
+16015,European Union,2021/1/9,Johnson&Johnson,42
+16016,European Union,2021/1/9,Moderna,491
+16017,European Union,2021/1/9,Oxford/AstraZeneca,189
+16018,European Union,2021/1/9,Pfizer/BioNTech,2790169
+16019,European Union,2021/1/9,Sinopharm/Beijing,0
+16020,European Union,2021/1/9,Sputnik V,0
+16021,European Union,2021/1/10,Johnson&Johnson,42
+16022,European Union,2021/1/10,Moderna,500
+16023,European Union,2021/1/10,Oxford/AstraZeneca,190
+16024,European Union,2021/1/10,Pfizer/BioNTech,2900806
+16025,European Union,2021/1/10,Sinopharm/Beijing,0
+16026,European Union,2021/1/10,Sputnik V,0
+16027,European Union,2021/1/11,Johnson&Johnson,42
+16028,European Union,2021/1/11,Moderna,632
+16029,European Union,2021/1/11,Oxford/AstraZeneca,192
+16030,European Union,2021/1/11,Pfizer/BioNTech,3118787
+16031,European Union,2021/1/11,Sinopharm/Beijing,0
+16032,European Union,2021/1/11,Sputnik V,0
+16033,European Union,2021/1/12,Johnson&Johnson,42
+16034,European Union,2021/1/12,Moderna,745
+16035,European Union,2021/1/12,Oxford/AstraZeneca,197
+16036,European Union,2021/1/12,Pfizer/BioNTech,3372681
+16037,European Union,2021/1/12,Sinopharm/Beijing,0
+16038,European Union,2021/1/12,Sputnik V,0
+16039,European Union,2021/1/13,Johnson&Johnson,42
+16040,European Union,2021/1/13,Moderna,2150
+16041,European Union,2021/1/13,Oxford/AstraZeneca,197
+16042,European Union,2021/1/13,Pfizer/BioNTech,3672297
+16043,European Union,2021/1/13,Sinopharm/Beijing,0
+16044,European Union,2021/1/13,Sputnik V,0
+16045,European Union,2021/1/14,Johnson&Johnson,42
+16046,European Union,2021/1/14,Moderna,10327
+16047,European Union,2021/1/14,Oxford/AstraZeneca,199
+16048,European Union,2021/1/14,Pfizer/BioNTech,3955784
+16049,European Union,2021/1/14,Sinopharm/Beijing,0
+16050,European Union,2021/1/14,Sputnik V,0
+16051,European Union,2021/1/15,Johnson&Johnson,42
+16052,European Union,2021/1/15,Moderna,36342
+16053,European Union,2021/1/15,Oxford/AstraZeneca,367
+16054,European Union,2021/1/15,Pfizer/BioNTech,5671728
+16055,European Union,2021/1/15,Sinopharm/Beijing,0
+16056,European Union,2021/1/15,Sputnik V,0
+16057,European Union,2021/1/16,Johnson&Johnson,42
+16058,European Union,2021/1/16,Moderna,39621
+16059,European Union,2021/1/16,Oxford/AstraZeneca,371
+16060,European Union,2021/1/16,Pfizer/BioNTech,5828746
+16061,European Union,2021/1/16,Sinopharm/Beijing,0
+16062,European Union,2021/1/16,Sputnik V,0
+16063,European Union,2021/1/17,Johnson&Johnson,43
+16064,European Union,2021/1/17,Moderna,41312
+16065,European Union,2021/1/17,Oxford/AstraZeneca,374
+16066,European Union,2021/1/17,Pfizer/BioNTech,5934429
+16067,European Union,2021/1/17,Sinopharm/Beijing,0
+16068,European Union,2021/1/17,Sputnik V,0
+16069,European Union,2021/1/18,Johnson&Johnson,43
+16070,European Union,2021/1/18,Moderna,50148
+16071,European Union,2021/1/18,Oxford/AstraZeneca,377
+16072,European Union,2021/1/18,Pfizer/BioNTech,6183824
+16073,European Union,2021/1/18,Sinopharm/Beijing,0
+16074,European Union,2021/1/18,Sputnik V,0
+16075,European Union,2021/1/19,Johnson&Johnson,43
+16076,European Union,2021/1/19,Moderna,61711
+16077,European Union,2021/1/19,Oxford/AstraZeneca,430
+16078,European Union,2021/1/19,Pfizer/BioNTech,6506071
+16079,European Union,2021/1/19,Sinopharm/Beijing,0
+16080,European Union,2021/1/19,Sputnik V,0
+16081,European Union,2021/1/20,Johnson&Johnson,43
+16082,European Union,2021/1/20,Moderna,74712
+16083,European Union,2021/1/20,Oxford/AstraZeneca,435
+16084,European Union,2021/1/20,Pfizer/BioNTech,6849074
+16085,European Union,2021/1/20,Sinopharm/Beijing,0
+16086,European Union,2021/1/20,Sputnik V,0
+16087,European Union,2021/1/21,Johnson&Johnson,43
+16088,European Union,2021/1/21,Moderna,86682
+16089,European Union,2021/1/21,Oxford/AstraZeneca,437
+16090,European Union,2021/1/21,Pfizer/BioNTech,7193510
+16091,European Union,2021/1/21,Sinopharm/Beijing,0
+16092,European Union,2021/1/21,Sputnik V,0
+16093,European Union,2021/1/22,Johnson&Johnson,44
+16094,European Union,2021/1/22,Moderna,135475
+16095,European Union,2021/1/22,Oxford/AstraZeneca,660
+16096,European Union,2021/1/22,Pfizer/BioNTech,8915193
+16097,European Union,2021/1/22,Sinopharm/Beijing,0
+16098,European Union,2021/1/22,Sputnik V,0
+16099,European Union,2021/1/23,Johnson&Johnson,44
+16100,European Union,2021/1/23,Moderna,138748
+16101,European Union,2021/1/23,Oxford/AstraZeneca,667
+16102,European Union,2021/1/23,Pfizer/BioNTech,9113370
+16103,European Union,2021/1/23,Sinopharm/Beijing,0
+16104,European Union,2021/1/23,Sputnik V,0
+16105,European Union,2021/1/24,Johnson&Johnson,44
+16106,European Union,2021/1/24,Moderna,140008
+16107,European Union,2021/1/24,Oxford/AstraZeneca,671
+16108,European Union,2021/1/24,Pfizer/BioNTech,9233844
+16109,European Union,2021/1/24,Sinopharm/Beijing,0
+16110,European Union,2021/1/24,Sputnik V,0
+16111,European Union,2021/1/25,Johnson&Johnson,44
+16112,European Union,2021/1/25,Moderna,146076
+16113,European Union,2021/1/25,Oxford/AstraZeneca,675
+16114,European Union,2021/1/25,Pfizer/BioNTech,9518481
+16115,European Union,2021/1/25,Sinopharm/Beijing,0
+16116,European Union,2021/1/25,Sputnik V,0
+16117,European Union,2021/1/26,Johnson&Johnson,44
+16118,European Union,2021/1/26,Moderna,152383
+16119,European Union,2021/1/26,Oxford/AstraZeneca,682
+16120,European Union,2021/1/26,Pfizer/BioNTech,9852986
+16121,European Union,2021/1/26,Sinopharm/Beijing,0
+16122,European Union,2021/1/26,Sputnik V,0
+16123,European Union,2021/1/27,Johnson&Johnson,45
+16124,European Union,2021/1/27,Moderna,158743
+16125,European Union,2021/1/27,Oxford/AstraZeneca,691
+16126,European Union,2021/1/27,Pfizer/BioNTech,10195798
+16127,European Union,2021/1/27,Sinopharm/Beijing,0
+16128,European Union,2021/1/27,Sputnik V,0
+16129,European Union,2021/1/28,Johnson&Johnson,46
+16130,European Union,2021/1/28,Moderna,164996
+16131,European Union,2021/1/28,Oxford/AstraZeneca,696
+16132,European Union,2021/1/28,Pfizer/BioNTech,10566552
+16133,European Union,2021/1/28,Sinopharm/Beijing,0
+16134,European Union,2021/1/28,Sputnik V,0
+16135,European Union,2021/1/29,Johnson&Johnson,48
+16136,European Union,2021/1/29,Moderna,198214
+16137,European Union,2021/1/29,Oxford/AstraZeneca,948
+16138,European Union,2021/1/29,Pfizer/BioNTech,12724709
+16139,European Union,2021/1/29,Sinopharm/Beijing,0
+16140,European Union,2021/1/29,Sputnik V,0
+16141,European Union,2021/1/30,Johnson&Johnson,49
+16142,European Union,2021/1/30,Moderna,200692
+16143,European Union,2021/1/30,Oxford/AstraZeneca,956
+16144,European Union,2021/1/30,Pfizer/BioNTech,12961186
+16145,European Union,2021/1/30,Sinopharm/Beijing,0
+16146,European Union,2021/1/30,Sputnik V,0
+16147,European Union,2021/1/31,Johnson&Johnson,49
+16148,European Union,2021/1/31,Moderna,201310
+16149,European Union,2021/1/31,Oxford/AstraZeneca,964
+16150,European Union,2021/1/31,Pfizer/BioNTech,13105374
+16151,European Union,2021/1/31,Sinopharm/Beijing,0
+16152,European Union,2021/1/31,Sputnik V,0
+16153,European Union,2021/2/1,Johnson&Johnson,49
+16154,European Union,2021/2/1,Moderna,207671
+16155,European Union,2021/2/1,Oxford/AstraZeneca,1022
+16156,European Union,2021/2/1,Pfizer/BioNTech,13420872
+16157,European Union,2021/2/1,Sinopharm/Beijing,0
+16158,European Union,2021/2/1,Sputnik V,0
+16159,European Union,2021/2/2,Johnson&Johnson,50
+16160,European Union,2021/2/2,Moderna,216799
+16161,European Union,2021/2/2,Oxford/AstraZeneca,1071
+16162,European Union,2021/2/2,Pfizer/BioNTech,13782409
+16163,European Union,2021/2/2,Sinopharm/Beijing,0
+16164,European Union,2021/2/2,Sputnik V,0
+16165,European Union,2021/2/3,Johnson&Johnson,50
+16166,European Union,2021/2/3,Moderna,230713
+16167,European Union,2021/2/3,Oxford/AstraZeneca,1098
+16168,European Union,2021/2/3,Pfizer/BioNTech,14180280
+16169,European Union,2021/2/3,Sinopharm/Beijing,0
+16170,European Union,2021/2/3,Sputnik V,0
+16171,European Union,2021/2/4,Johnson&Johnson,51
+16172,European Union,2021/2/4,Moderna,250814
+16173,European Union,2021/2/4,Oxford/AstraZeneca,1108
+16174,European Union,2021/2/4,Pfizer/BioNTech,14576331
+16175,European Union,2021/2/4,Sinopharm/Beijing,0
+16176,European Union,2021/2/4,Sputnik V,0
+16177,European Union,2021/2/5,Johnson&Johnson,61
+16178,European Union,2021/2/5,Moderna,350765
+16179,European Union,2021/2/5,Oxford/AstraZeneca,1387
+16180,European Union,2021/2/5,Pfizer/BioNTech,16973713
+16181,European Union,2021/2/5,Sinopharm/Beijing,0
+16182,European Union,2021/2/5,Sputnik V,0
+16183,European Union,2021/2/6,Johnson&Johnson,61
+16184,European Union,2021/2/6,Moderna,365893
+16185,European Union,2021/2/6,Oxford/AstraZeneca,2322
+16186,European Union,2021/2/6,Pfizer/BioNTech,17185012
+16187,European Union,2021/2/6,Sinopharm/Beijing,0
+16188,European Union,2021/2/6,Sputnik V,0
+16189,European Union,2021/2/7,Johnson&Johnson,62
+16190,European Union,2021/2/7,Moderna,377422
+16191,European Union,2021/2/7,Oxford/AstraZeneca,3707
+16192,European Union,2021/2/7,Pfizer/BioNTech,17296873
+16193,European Union,2021/2/7,Sinopharm/Beijing,0
+16194,European Union,2021/2/7,Sputnik V,0
+16195,European Union,2021/2/8,Johnson&Johnson,64
+16196,European Union,2021/2/8,Moderna,396786
+16197,European Union,2021/2/8,Oxford/AstraZeneca,6453
+16198,European Union,2021/2/8,Pfizer/BioNTech,17594155
+16199,European Union,2021/2/8,Sinopharm/Beijing,0
+16200,European Union,2021/2/8,Sputnik V,0
+16201,European Union,2021/2/9,Johnson&Johnson,64
+16202,European Union,2021/2/9,Moderna,418636
+16203,European Union,2021/2/9,Oxford/AstraZeneca,13388
+16204,European Union,2021/2/9,Pfizer/BioNTech,17960501
+16205,European Union,2021/2/9,Sinopharm/Beijing,0
+16206,European Union,2021/2/9,Sputnik V,0
+16207,European Union,2021/2/10,Johnson&Johnson,65
+16208,European Union,2021/2/10,Moderna,441096
+16209,European Union,2021/2/10,Oxford/AstraZeneca,31671
+16210,European Union,2021/2/10,Pfizer/BioNTech,18355146
+16211,European Union,2021/2/10,Sinopharm/Beijing,0
+16212,European Union,2021/2/10,Sputnik V,0
+16213,European Union,2021/2/11,Johnson&Johnson,67
+16214,European Union,2021/2/11,Moderna,469065
+16215,European Union,2021/2/11,Oxford/AstraZeneca,65787
+16216,European Union,2021/2/11,Pfizer/BioNTech,18760714
+16217,European Union,2021/2/11,Sinopharm/Beijing,0
+16218,European Union,2021/2/11,Sputnik V,0
+16219,European Union,2021/2/12,Johnson&Johnson,71
+16220,European Union,2021/2/12,Moderna,625698
+16221,European Union,2021/2/12,Oxford/AstraZeneca,275049
+16222,European Union,2021/2/12,Pfizer/BioNTech,20989753
+16223,European Union,2021/2/12,Sinopharm/Beijing,0
+16224,European Union,2021/2/12,Sputnik V,2385
+16225,European Union,2021/2/13,Johnson&Johnson,72
+16226,European Union,2021/2/13,Moderna,640189
+16227,European Union,2021/2/13,Oxford/AstraZeneca,298055
+16228,European Union,2021/2/13,Pfizer/BioNTech,21194496
+16229,European Union,2021/2/13,Sinopharm/Beijing,0
+16230,European Union,2021/2/13,Sputnik V,2385
+16231,European Union,2021/2/14,Johnson&Johnson,74
+16232,European Union,2021/2/14,Moderna,647804
+16233,European Union,2021/2/14,Oxford/AstraZeneca,313635
+16234,European Union,2021/2/14,Pfizer/BioNTech,21310878
+16235,European Union,2021/2/14,Sinopharm/Beijing,0
+16236,European Union,2021/2/14,Sputnik V,2385
+16237,European Union,2021/2/15,Johnson&Johnson,85
+16238,European Union,2021/2/15,Moderna,668460
+16239,European Union,2021/2/15,Oxford/AstraZeneca,354651
+16240,European Union,2021/2/15,Pfizer/BioNTech,21605470
+16241,European Union,2021/2/15,Sinopharm/Beijing,0
+16242,European Union,2021/2/15,Sputnik V,2385
+16243,European Union,2021/2/16,Johnson&Johnson,86
+16244,European Union,2021/2/16,Moderna,696124
+16245,European Union,2021/2/16,Oxford/AstraZeneca,405175
+16246,European Union,2021/2/16,Pfizer/BioNTech,21940683
+16247,European Union,2021/2/16,Sinopharm/Beijing,0
+16248,European Union,2021/2/16,Sputnik V,2385
+16249,European Union,2021/2/17,Johnson&Johnson,87
+16250,European Union,2021/2/17,Moderna,728824
+16251,European Union,2021/2/17,Oxford/AstraZeneca,462997
+16252,European Union,2021/2/17,Pfizer/BioNTech,22298529
+16253,European Union,2021/2/17,Sinopharm/Beijing,0
+16254,European Union,2021/2/17,Sputnik V,2385
+16255,European Union,2021/2/18,Johnson&Johnson,92
+16256,European Union,2021/2/18,Moderna,759642
+16257,European Union,2021/2/18,Oxford/AstraZeneca,531402
+16258,European Union,2021/2/18,Pfizer/BioNTech,22683511
+16259,European Union,2021/2/18,Sinopharm/Beijing,0
+16260,European Union,2021/2/18,Sputnik V,2385
+16261,European Union,2021/2/19,Johnson&Johnson,95
+16262,European Union,2021/2/19,Moderna,966891
+16263,European Union,2021/2/19,Oxford/AstraZeneca,1169034
+16264,European Union,2021/2/19,Pfizer/BioNTech,24900499
+16265,European Union,2021/2/19,Sinopharm/Beijing,0
+16266,European Union,2021/2/19,Sputnik V,18484
+16267,European Union,2021/2/20,Johnson&Johnson,96
+16268,European Union,2021/2/20,Moderna,981457
+16269,European Union,2021/2/20,Oxford/AstraZeneca,1223537
+16270,European Union,2021/2/20,Pfizer/BioNTech,25105845
+16271,European Union,2021/2/20,Sinopharm/Beijing,0
+16272,European Union,2021/2/20,Sputnik V,18484
+16273,European Union,2021/2/21,Johnson&Johnson,97
+16274,European Union,2021/2/21,Moderna,991118
+16275,European Union,2021/2/21,Oxford/AstraZeneca,1259995
+16276,European Union,2021/2/21,Pfizer/BioNTech,25237146
+16277,European Union,2021/2/21,Sinopharm/Beijing,0
+16278,European Union,2021/2/21,Sputnik V,18484
+16279,European Union,2021/2/22,Johnson&Johnson,98
+16280,European Union,2021/2/22,Moderna,1015050
+16281,European Union,2021/2/22,Oxford/AstraZeneca,1329391
+16282,European Union,2021/2/22,Pfizer/BioNTech,25564145
+16283,European Union,2021/2/22,Sinopharm/Beijing,0
+16284,European Union,2021/2/22,Sputnik V,18484
+16285,European Union,2021/2/23,Johnson&Johnson,99
+16286,European Union,2021/2/23,Moderna,1037447
+16287,European Union,2021/2/23,Oxford/AstraZeneca,1408907
+16288,European Union,2021/2/23,Pfizer/BioNTech,25928347
+16289,European Union,2021/2/23,Sinopharm/Beijing,0
+16290,European Union,2021/2/23,Sputnik V,18484
+16291,European Union,2021/2/24,Johnson&Johnson,100
+16292,European Union,2021/2/24,Moderna,1061361
+16293,European Union,2021/2/24,Oxford/AstraZeneca,1504529
+16294,European Union,2021/2/24,Pfizer/BioNTech,26300839
+16295,European Union,2021/2/24,Sinopharm/Beijing,0
+16296,European Union,2021/2/24,Sputnik V,18484
+16297,European Union,2021/2/25,Johnson&Johnson,100
+16298,European Union,2021/2/25,Moderna,1084690
+16299,European Union,2021/2/25,Oxford/AstraZeneca,1651078
+16300,European Union,2021/2/25,Pfizer/BioNTech,26689132
+16301,European Union,2021/2/25,Sinopharm/Beijing,0
+16302,European Union,2021/2/25,Sputnik V,18484
+16303,European Union,2021/2/26,Johnson&Johnson,105
+16304,European Union,2021/2/26,Moderna,1255664
+16305,European Union,2021/2/26,Oxford/AstraZeneca,2888327
+16306,European Union,2021/2/26,Pfizer/BioNTech,29022652
+16307,European Union,2021/2/26,Sinopharm/Beijing,162077
+16308,European Union,2021/2/26,Sputnik V,19321
+16309,European Union,2021/2/27,Johnson&Johnson,106
+16310,European Union,2021/2/27,Moderna,1269952
+16311,European Union,2021/2/27,Oxford/AstraZeneca,3029981
+16312,European Union,2021/2/27,Pfizer/BioNTech,29235325
+16313,European Union,2021/2/27,Sinopharm/Beijing,162077
+16314,European Union,2021/2/27,Sputnik V,19321
+16315,European Union,2021/2/28,Johnson&Johnson,108
+16316,European Union,2021/2/28,Moderna,1277019
+16317,European Union,2021/2/28,Oxford/AstraZeneca,3105670
+16318,European Union,2021/2/28,Pfizer/BioNTech,29358931
+16319,European Union,2021/2/28,Sinopharm/Beijing,162077
+16320,European Union,2021/2/28,Sputnik V,19321
+16321,European Union,2021/3/1,Johnson&Johnson,108
+16322,European Union,2021/3/1,Moderna,1304604
+16323,European Union,2021/3/1,Oxford/AstraZeneca,3239498
+16324,European Union,2021/3/1,Pfizer/BioNTech,29707171
+16325,European Union,2021/3/1,Sinopharm/Beijing,162077
+16326,European Union,2021/3/1,Sputnik V,19321
+16327,European Union,2021/3/2,Johnson&Johnson,108
+16328,European Union,2021/3/2,Moderna,1335974
+16329,European Union,2021/3/2,Oxford/AstraZeneca,3423905
+16330,European Union,2021/3/2,Pfizer/BioNTech,30111610
+16331,European Union,2021/3/2,Sinopharm/Beijing,162077
+16332,European Union,2021/3/2,Sputnik V,19321
+16333,European Union,2021/3/3,Johnson&Johnson,108
+16334,European Union,2021/3/3,Moderna,1376888
+16335,European Union,2021/3/3,Oxford/AstraZeneca,3626846
+16336,European Union,2021/3/3,Pfizer/BioNTech,30562975
+16337,European Union,2021/3/3,Sinopharm/Beijing,162077
+16338,European Union,2021/3/3,Sputnik V,19321
+16339,European Union,2021/3/4,Johnson&Johnson,108
+16340,European Union,2021/3/4,Moderna,1426794
+16341,European Union,2021/3/4,Oxford/AstraZeneca,3881722
+16342,European Union,2021/3/4,Pfizer/BioNTech,31021691
+16343,European Union,2021/3/4,Sinopharm/Beijing,162077
+16344,European Union,2021/3/4,Sputnik V,19321
+16345,European Union,2021/3/5,Johnson&Johnson,141
+16346,European Union,2021/3/5,Moderna,1776651
+16347,European Union,2021/3/5,Oxford/AstraZeneca,5301280
+16348,European Union,2021/3/5,Pfizer/BioNTech,33527182
+16349,European Union,2021/3/5,Sinopharm/Beijing,368592
+16350,European Union,2021/3/5,Sputnik V,22756
+16351,European Union,2021/3/6,Johnson&Johnson,146
+16352,European Union,2021/3/6,Moderna,1815034
+16353,European Union,2021/3/6,Oxford/AstraZeneca,5582865
+16354,European Union,2021/3/6,Pfizer/BioNTech,33875675
+16355,European Union,2021/3/6,Sinopharm/Beijing,368592
+16356,European Union,2021/3/6,Sputnik V,22756
+16357,European Union,2021/3/7,Johnson&Johnson,149
+16358,European Union,2021/3/7,Moderna,1841354
+16359,European Union,2021/3/7,Oxford/AstraZeneca,5746658
+16360,European Union,2021/3/7,Pfizer/BioNTech,34120366
+16361,European Union,2021/3/7,Sinopharm/Beijing,368592
+16362,European Union,2021/3/7,Sputnik V,22756
+16363,European Union,2021/3/8,Johnson&Johnson,152
+16364,European Union,2021/3/8,Moderna,1885092
+16365,European Union,2021/3/8,Oxford/AstraZeneca,5958446
+16366,European Union,2021/3/8,Pfizer/BioNTech,34521873
+16367,European Union,2021/3/8,Sinopharm/Beijing,368592
+16368,European Union,2021/3/8,Sputnik V,22756
+16369,European Union,2021/3/9,Johnson&Johnson,153
+16370,European Union,2021/3/9,Moderna,1937124
+16371,European Union,2021/3/9,Oxford/AstraZeneca,6220893
+16372,European Union,2021/3/9,Pfizer/BioNTech,34977632
+16373,European Union,2021/3/9,Sinopharm/Beijing,368592
+16374,European Union,2021/3/9,Sputnik V,22756
+16375,European Union,2021/3/10,Johnson&Johnson,155
+16376,European Union,2021/3/10,Moderna,1985973
+16377,European Union,2021/3/10,Oxford/AstraZeneca,6506567
+16378,European Union,2021/3/10,Pfizer/BioNTech,35486271
+16379,European Union,2021/3/10,Sinopharm/Beijing,368592
+16380,European Union,2021/3/10,Sputnik V,22756
+16381,European Union,2021/3/11,Johnson&Johnson,157
+16382,European Union,2021/3/11,Moderna,2038533
+16383,European Union,2021/3/11,Oxford/AstraZeneca,6850837
+16384,European Union,2021/3/11,Pfizer/BioNTech,36010044
+16385,European Union,2021/3/11,Sinopharm/Beijing,368592
+16386,European Union,2021/3/11,Sputnik V,22756
+16387,European Union,2021/3/12,Johnson&Johnson,216
+16388,European Union,2021/3/12,Moderna,2339846
+16389,European Union,2021/3/12,Oxford/AstraZeneca,8540859
+16390,European Union,2021/3/12,Pfizer/BioNTech,38608040
+16391,European Union,2021/3/12,Sinopharm/Beijing,492383
+16392,European Union,2021/3/12,Sputnik V,54724
+16393,European Union,2021/3/13,Johnson&Johnson,216
+16394,European Union,2021/3/13,Moderna,2378044
+16395,European Union,2021/3/13,Oxford/AstraZeneca,8865173
+16396,European Union,2021/3/13,Pfizer/BioNTech,38977706
+16397,European Union,2021/3/13,Sinopharm/Beijing,492383
+16398,European Union,2021/3/13,Sputnik V,54724
+16399,European Union,2021/3/14,Johnson&Johnson,218
+16400,European Union,2021/3/14,Moderna,2399900
+16401,European Union,2021/3/14,Oxford/AstraZeneca,9003051
+16402,European Union,2021/3/14,Pfizer/BioNTech,39216804
+16403,European Union,2021/3/14,Sinopharm/Beijing,492383
+16404,European Union,2021/3/14,Sputnik V,54724
+16405,European Union,2021/3/15,Johnson&Johnson,222
+16406,European Union,2021/3/15,Moderna,2451437
+16407,European Union,2021/3/15,Oxford/AstraZeneca,9208517
+16408,European Union,2021/3/15,Pfizer/BioNTech,39664638
+16409,European Union,2021/3/15,Sinopharm/Beijing,492383
+16410,European Union,2021/3/15,Sputnik V,54724
+16411,European Union,2021/3/16,Johnson&Johnson,229
+16412,European Union,2021/3/16,Moderna,2517508
+16413,European Union,2021/3/16,Oxford/AstraZeneca,9226811
+16414,European Union,2021/3/16,Pfizer/BioNTech,40189889
+16415,European Union,2021/3/16,Sinopharm/Beijing,492383
+16416,European Union,2021/3/16,Sputnik V,54724
+16417,European Union,2021/3/17,Johnson&Johnson,230
+16418,European Union,2021/3/17,Moderna,2588242
+16419,European Union,2021/3/17,Oxford/AstraZeneca,9243989
+16420,European Union,2021/3/17,Pfizer/BioNTech,40764508
+16421,European Union,2021/3/17,Sinopharm/Beijing,492383
+16422,European Union,2021/3/17,Sputnik V,54724
+16423,European Union,2021/3/18,Johnson&Johnson,238
+16424,European Union,2021/3/18,Moderna,2661416
+16425,European Union,2021/3/18,Oxford/AstraZeneca,9262951
+16426,European Union,2021/3/18,Pfizer/BioNTech,41344166
+16427,European Union,2021/3/18,Sinopharm/Beijing,492383
+16428,European Union,2021/3/18,Sputnik V,54724
+16429,European Union,2021/3/19,Johnson&Johnson,317
+16430,European Union,2021/3/19,Moderna,3063913
+16431,European Union,2021/3/19,Oxford/AstraZeneca,9992512
+16432,European Union,2021/3/19,Pfizer/BioNTech,44215017
+16433,European Union,2021/3/19,Sinopharm/Beijing,505062
+16434,European Union,2021/3/19,Sputnik V,143314
+16435,European Union,2021/3/20,Johnson&Johnson,321
+16436,European Union,2021/3/20,Moderna,3124538
+16437,European Union,2021/3/20,Oxford/AstraZeneca,10189658
+16438,European Union,2021/3/20,Pfizer/BioNTech,44600338
+16439,European Union,2021/3/20,Sinopharm/Beijing,505062
+16440,European Union,2021/3/20,Sputnik V,143314
+16441,European Union,2021/3/21,Johnson&Johnson,324
+16442,European Union,2021/3/21,Moderna,3165843
+16443,European Union,2021/3/21,Oxford/AstraZeneca,10301703
+16444,European Union,2021/3/21,Pfizer/BioNTech,44847848
+16445,European Union,2021/3/21,Sinopharm/Beijing,505062
+16446,European Union,2021/3/21,Sputnik V,143314
+16447,European Union,2021/3/22,Johnson&Johnson,327
+16448,European Union,2021/3/22,Moderna,3231486
+16449,European Union,2021/3/22,Oxford/AstraZeneca,10505686
+16450,European Union,2021/3/22,Pfizer/BioNTech,45334696
+16451,European Union,2021/3/22,Sinopharm/Beijing,505062
+16452,European Union,2021/3/22,Sputnik V,143314
+16453,European Union,2021/3/23,Johnson&Johnson,333
+16454,European Union,2021/3/23,Moderna,3301278
+16455,European Union,2021/3/23,Oxford/AstraZeneca,10790862
+16456,European Union,2021/3/23,Pfizer/BioNTech,45903399
+16457,European Union,2021/3/23,Sinopharm/Beijing,505062
+16458,European Union,2021/3/23,Sputnik V,143314
+16459,European Union,2021/3/24,Johnson&Johnson,337
+16460,European Union,2021/3/24,Moderna,3388822
+16461,European Union,2021/3/24,Oxford/AstraZeneca,11085911
+16462,European Union,2021/3/24,Pfizer/BioNTech,46526644
+16463,European Union,2021/3/24,Sinopharm/Beijing,505062
+16464,European Union,2021/3/24,Sputnik V,143314
+16465,European Union,2021/3/25,Johnson&Johnson,338
+16466,European Union,2021/3/25,Moderna,3476489
+16467,European Union,2021/3/25,Oxford/AstraZeneca,11457183
+16468,European Union,2021/3/25,Pfizer/BioNTech,47166948
+16469,European Union,2021/3/25,Sinopharm/Beijing,505062
+16470,European Union,2021/3/25,Sputnik V,143314
+16471,European Union,2021/3/26,Johnson&Johnson,390
+16472,European Union,2021/3/26,Moderna,3968469
+16473,European Union,2021/3/26,Oxford/AstraZeneca,13314734
+16474,European Union,2021/3/26,Pfizer/BioNTech,50490463
+16475,European Union,2021/3/26,Sinopharm/Beijing,687323
+16476,European Union,2021/3/26,Sputnik V,233879
+16477,European Union,2021/3/27,Johnson&Johnson,396
+16478,European Union,2021/3/27,Moderna,4048788
+16479,European Union,2021/3/27,Oxford/AstraZeneca,13565375
+16480,European Union,2021/3/27,Pfizer/BioNTech,50966359
+16481,European Union,2021/3/27,Sinopharm/Beijing,687323
+16482,European Union,2021/3/27,Sputnik V,233879
+16483,European Union,2021/3/28,Johnson&Johnson,397
+16484,European Union,2021/3/28,Moderna,4101188
+16485,European Union,2021/3/28,Oxford/AstraZeneca,13698740
+16486,European Union,2021/3/28,Pfizer/BioNTech,51268188
+16487,European Union,2021/3/28,Sinopharm/Beijing,687323
+16488,European Union,2021/3/28,Sputnik V,233879
+16489,European Union,2021/3/29,Johnson&Johnson,399
+16490,European Union,2021/3/29,Moderna,4184806
+16491,European Union,2021/3/29,Oxford/AstraZeneca,13930955
+16492,European Union,2021/3/29,Pfizer/BioNTech,51853471
+16493,European Union,2021/3/29,Sinopharm/Beijing,687323
+16494,European Union,2021/3/29,Sputnik V,233879
+16495,European Union,2021/3/30,Johnson&Johnson,405
+16496,European Union,2021/3/30,Moderna,4283585
+16497,European Union,2021/3/30,Oxford/AstraZeneca,14201167
+16498,European Union,2021/3/30,Pfizer/BioNTech,52555029
+16499,European Union,2021/3/30,Sinopharm/Beijing,687323
+16500,European Union,2021/3/30,Sputnik V,233879
+16501,European Union,2021/3/31,Johnson&Johnson,427
+16502,European Union,2021/3/31,Moderna,4394204
+16503,European Union,2021/3/31,Oxford/AstraZeneca,14404256
+16504,European Union,2021/3/31,Pfizer/BioNTech,53335034
+16505,European Union,2021/3/31,Sinopharm/Beijing,687323
+16506,European Union,2021/3/31,Sputnik V,233879
+16507,European Union,2021/4/1,Johnson&Johnson,435
+16508,European Union,2021/4/1,Moderna,4511371
+16509,European Union,2021/4/1,Oxford/AstraZeneca,14614722
+16510,European Union,2021/4/1,Pfizer/BioNTech,54144668
+16511,European Union,2021/4/1,Sinopharm/Beijing,687323
+16512,European Union,2021/4/1,Sputnik V,233879
+16513,European Union,2021/4/2,Johnson&Johnson,577
+16514,European Union,2021/4/2,Moderna,5124461
+16515,European Union,2021/4/2,Oxford/AstraZeneca,16205093
+16516,European Union,2021/4/2,Pfizer/BioNTech,57694699
+16517,European Union,2021/4/2,Sinopharm/Beijing,885907
+16518,European Union,2021/4/2,Sputnik V,388391
+16519,European Union,2021/4/3,Johnson&Johnson,581
+16520,European Union,2021/4/3,Moderna,5203875
+16521,European Union,2021/4/3,Oxford/AstraZeneca,16339606
+16522,European Union,2021/4/3,Pfizer/BioNTech,58219360
+16523,European Union,2021/4/3,Sinopharm/Beijing,885907
+16524,European Union,2021/4/3,Sputnik V,388391
+16525,European Union,2021/4/4,Johnson&Johnson,583
+16526,European Union,2021/4/4,Moderna,5241791
+16527,European Union,2021/4/4,Oxford/AstraZeneca,16438118
+16528,European Union,2021/4/4,Pfizer/BioNTech,58497906
+16529,European Union,2021/4/4,Sinopharm/Beijing,885907
+16530,European Union,2021/4/4,Sputnik V,388391
+16531,European Union,2021/4/5,Johnson&Johnson,591
+16532,European Union,2021/4/5,Moderna,5298496
+16533,European Union,2021/4/5,Oxford/AstraZeneca,16573737
+16534,European Union,2021/4/5,Pfizer/BioNTech,58859584
+16535,European Union,2021/4/5,Sinopharm/Beijing,885907
+16536,European Union,2021/4/5,Sputnik V,388391
+16537,European Union,2021/4/6,Johnson&Johnson,636
+16538,European Union,2021/4/6,Moderna,5420357
+16539,European Union,2021/4/6,Oxford/AstraZeneca,16785831
+16540,European Union,2021/4/6,Pfizer/BioNTech,59615644
+16541,European Union,2021/4/6,Sinopharm/Beijing,885907
+16542,European Union,2021/4/6,Sputnik V,388391
+16543,European Union,2021/4/7,Johnson&Johnson,651
+16544,European Union,2021/4/7,Moderna,5541337
+16545,European Union,2021/4/7,Oxford/AstraZeneca,17007868
+16546,European Union,2021/4/7,Pfizer/BioNTech,60760187
+16547,European Union,2021/4/7,Sinopharm/Beijing,885907
+16548,European Union,2021/4/7,Sputnik V,388391
+16549,European Union,2021/4/8,Johnson&Johnson,665
+16550,European Union,2021/4/8,Moderna,5670535
+16551,European Union,2021/4/8,Oxford/AstraZeneca,17255377
+16552,European Union,2021/4/8,Pfizer/BioNTech,62014128
+16553,European Union,2021/4/8,Sinopharm/Beijing,885907
+16554,European Union,2021/4/8,Sputnik V,388391
+16555,European Union,2021/4/9,Johnson&Johnson,925
+16556,European Union,2021/4/9,Moderna,6296578
+16557,European Union,2021/4/9,Oxford/AstraZeneca,19639315
+16558,European Union,2021/4/9,Pfizer/BioNTech,67184851
+16559,European Union,2021/4/9,Sinopharm/Beijing,1013005
+16560,European Union,2021/4/9,Sputnik V,676266
+16561,European Union,2021/4/10,Johnson&Johnson,934
+16562,European Union,2021/4/10,Moderna,6398940
+16563,European Union,2021/4/10,Oxford/AstraZeneca,19885455
+16564,European Union,2021/4/10,Pfizer/BioNTech,67919953
+16565,European Union,2021/4/10,Sinopharm/Beijing,1013005
+16566,European Union,2021/4/10,Sputnik V,676266
+16567,European Union,2021/4/11,Johnson&Johnson,944
+16568,European Union,2021/4/11,Moderna,6456454
+16569,European Union,2021/4/11,Oxford/AstraZeneca,20007946
+16570,European Union,2021/4/11,Pfizer/BioNTech,68373627
+16571,European Union,2021/4/11,Sinopharm/Beijing,1013005
+16572,European Union,2021/4/11,Sputnik V,676266
+16573,European Union,2021/4/12,Johnson&Johnson,951
+16574,European Union,2021/4/12,Moderna,6556517
+16575,European Union,2021/4/12,Oxford/AstraZeneca,20267612
+16576,European Union,2021/4/12,Pfizer/BioNTech,69180777
+16577,European Union,2021/4/12,Sinopharm/Beijing,1013005
+16578,European Union,2021/4/12,Sputnik V,676266
+16579,European Union,2021/4/13,Johnson&Johnson,954
+16580,European Union,2021/4/13,Moderna,6668014
+16581,European Union,2021/4/13,Oxford/AstraZeneca,20588375
+16582,European Union,2021/4/13,Pfizer/BioNTech,70211783
+16583,European Union,2021/4/13,Sinopharm/Beijing,1013005
+16584,European Union,2021/4/13,Sputnik V,676266
+16585,European Union,2021/4/14,Johnson&Johnson,956
+16586,European Union,2021/4/14,Moderna,6784336
+16587,European Union,2021/4/14,Oxford/AstraZeneca,20904629
+16588,European Union,2021/4/14,Pfizer/BioNTech,71462345
+16589,European Union,2021/4/14,Sinopharm/Beijing,1013005
+16590,European Union,2021/4/14,Sputnik V,676266
+16591,European Union,2021/4/15,Johnson&Johnson,957
+16592,European Union,2021/4/15,Moderna,6908951
+16593,European Union,2021/4/15,Oxford/AstraZeneca,21219396
+16594,European Union,2021/4/15,Pfizer/BioNTech,72699939
+16595,European Union,2021/4/15,Sinopharm/Beijing,1013005
+16596,European Union,2021/4/15,Sputnik V,676266
+16597,European Union,2021/4/16,Johnson&Johnson,26410
+16598,European Union,2021/4/16,Moderna,7629019
+16599,European Union,2021/4/16,Oxford/AstraZeneca,23549358
+16600,European Union,2021/4/16,Pfizer/BioNTech,78592408
+16601,European Union,2021/4/16,Sinopharm/Beijing,1030350
+16602,European Union,2021/4/16,Sputnik V,924750
+16603,European Union,2021/4/17,Johnson&Johnson,26410
+16604,European Union,2021/4/17,Moderna,7721919
+16605,European Union,2021/4/17,Oxford/AstraZeneca,23846179
+16606,European Union,2021/4/17,Pfizer/BioNTech,79321216
+16607,European Union,2021/4/17,Sinopharm/Beijing,1030350
+16608,European Union,2021/4/17,Sputnik V,924750
+16609,European Union,2021/4/18,Johnson&Johnson,26412
+16610,European Union,2021/4/18,Moderna,7780739
+16611,European Union,2021/4/18,Oxford/AstraZeneca,24020130
+16612,European Union,2021/4/18,Pfizer/BioNTech,79778373
+16613,European Union,2021/4/18,Sinopharm/Beijing,1030350
+16614,European Union,2021/4/18,Sputnik V,924750
+16615,European Union,2021/4/19,Johnson&Johnson,26415
+16616,European Union,2021/4/19,Moderna,7880051
+16617,European Union,2021/4/19,Oxford/AstraZeneca,24234486
+16618,European Union,2021/4/19,Pfizer/BioNTech,80661443
+16619,European Union,2021/4/19,Sinopharm/Beijing,1030350
+16620,European Union,2021/4/19,Sputnik V,924750
+16621,European Union,2021/4/20,Johnson&Johnson,26418
+16622,European Union,2021/4/20,Moderna,8004941
+16623,European Union,2021/4/20,Oxford/AstraZeneca,24535220
+16624,European Union,2021/4/20,Pfizer/BioNTech,81710742
+16625,European Union,2021/4/20,Sinopharm/Beijing,1030350
+16626,European Union,2021/4/20,Sputnik V,924750
+16627,European Union,2021/4/21,Johnson&Johnson,26422
+16628,European Union,2021/4/21,Moderna,8140728
+16629,European Union,2021/4/21,Oxford/AstraZeneca,24920870
+16630,European Union,2021/4/21,Pfizer/BioNTech,82870658
+16631,European Union,2021/4/21,Sinopharm/Beijing,1030350
+16632,European Union,2021/4/21,Sputnik V,924750
+16633,European Union,2021/4/22,Johnson&Johnson,26742
+16634,European Union,2021/4/22,Moderna,8288565
+16635,European Union,2021/4/22,Oxford/AstraZeneca,25300379
+16636,European Union,2021/4/22,Pfizer/BioNTech,84026766
+16637,European Union,2021/4/22,Sinopharm/Beijing,1030350
+16638,European Union,2021/4/22,Sputnik V,924750
+16639,European Union,2021/4/23,Johnson&Johnson,126864
+16640,European Union,2021/4/23,Moderna,9206062
+16641,European Union,2021/4/23,Oxford/AstraZeneca,26858758
+16642,European Union,2021/4/23,Pfizer/BioNTech,90268109
+16643,European Union,2021/4/23,Sinopharm/Beijing,1051731
+16644,European Union,2021/4/23,Sputnik V,1097161
+16645,European Union,2021/4/24,Johnson&Johnson,131471
+16646,European Union,2021/4/24,Moderna,9351330
+16647,European Union,2021/4/24,Oxford/AstraZeneca,27083256
+16648,European Union,2021/4/24,Pfizer/BioNTech,91067928
+16649,European Union,2021/4/24,Sinopharm/Beijing,1051731
+16650,European Union,2021/4/24,Sputnik V,1097161
+16651,European Union,2021/4/25,Johnson&Johnson,140361
+16652,European Union,2021/4/25,Moderna,9447237
+16653,European Union,2021/4/25,Oxford/AstraZeneca,27235209
+16654,European Union,2021/4/25,Pfizer/BioNTech,91567838
+16655,European Union,2021/4/25,Sinopharm/Beijing,1051731
+16656,European Union,2021/4/25,Sputnik V,1097161
+16657,European Union,2021/4/26,Johnson&Johnson,153187
+16658,European Union,2021/4/26,Moderna,9578859
+16659,European Union,2021/4/26,Oxford/AstraZeneca,27409764
+16660,European Union,2021/4/26,Pfizer/BioNTech,92546139
+16661,European Union,2021/4/26,Sinopharm/Beijing,1051731
+16662,European Union,2021/4/26,Sputnik V,1097161
+16663,European Union,2021/4/27,Johnson&Johnson,174038
+16664,European Union,2021/4/27,Moderna,9746837
+16665,European Union,2021/4/27,Oxford/AstraZeneca,27589239
+16666,European Union,2021/4/27,Pfizer/BioNTech,93962330
+16667,European Union,2021/4/27,Sinopharm/Beijing,1051731
+16668,European Union,2021/4/27,Sputnik V,1097161
+16669,European Union,2021/4/28,Johnson&Johnson,195231
+16670,European Union,2021/4/28,Moderna,9932015
+16671,European Union,2021/4/28,Oxford/AstraZeneca,27769694
+16672,European Union,2021/4/28,Pfizer/BioNTech,95761914
+16673,European Union,2021/4/28,Sinopharm/Beijing,1051731
+16674,European Union,2021/4/28,Sputnik V,1097161
+16675,European Union,2021/4/29,Johnson&Johnson,223882
+16676,European Union,2021/4/29,Moderna,10126699
+16677,European Union,2021/4/29,Oxford/AstraZeneca,27985282
+16678,European Union,2021/4/29,Pfizer/BioNTech,97528870
+16679,European Union,2021/4/29,Sinopharm/Beijing,1051731
+16680,European Union,2021/4/29,Sputnik V,1097161
+16681,European Union,2021/4/30,Johnson&Johnson,453660
+16682,European Union,2021/4/30,Moderna,10981654
+16683,European Union,2021/4/30,Oxford/AstraZeneca,29304247
+16684,European Union,2021/4/30,Pfizer/BioNTech,105323952
+16685,European Union,2021/4/30,Sinopharm/Beijing,1391195
+16686,European Union,2021/4/30,Sputnik V,1302893
+16687,European Union,2021/5/1,Johnson&Johnson,476186
+16688,European Union,2021/5/1,Moderna,11097802
+16689,European Union,2021/5/1,Oxford/AstraZeneca,29429359
+16690,European Union,2021/5/1,Pfizer/BioNTech,106138475
+16691,European Union,2021/5/1,Sinopharm/Beijing,1391195
+16692,European Union,2021/5/1,Sputnik V,1302893
+16693,European Union,2021/5/2,Johnson&Johnson,490085
+16694,European Union,2021/5/2,Moderna,11186801
+16695,European Union,2021/5/2,Oxford/AstraZeneca,29531415
+16696,European Union,2021/5/2,Pfizer/BioNTech,106762341
+16697,European Union,2021/5/2,Sinopharm/Beijing,1391195
+16698,European Union,2021/5/2,Sputnik V,1302893
+16699,European Union,2021/5/3,Johnson&Johnson,509762
+16700,European Union,2021/5/3,Moderna,11346724
+16701,European Union,2021/5/3,Oxford/AstraZeneca,29711310
+16702,European Union,2021/5/3,Pfizer/BioNTech,107866239
+16703,European Union,2021/5/3,Sinopharm/Beijing,1391195
+16704,European Union,2021/5/3,Sputnik V,1302893
+16705,European Union,2021/5/4,Johnson&Johnson,534889
+16706,European Union,2021/5/4,Moderna,11532558
+16707,European Union,2021/5/4,Oxford/AstraZeneca,30022469
+16708,European Union,2021/5/4,Pfizer/BioNTech,109346843
+16709,European Union,2021/5/4,Sinopharm/Beijing,1391195
+16710,European Union,2021/5/4,Sputnik V,1302893
+16711,European Union,2021/5/5,Johnson&Johnson,562232
+16712,European Union,2021/5/5,Moderna,11731415
+16713,European Union,2021/5/5,Oxford/AstraZeneca,30406904
+16714,European Union,2021/5/5,Pfizer/BioNTech,111112085
+16715,European Union,2021/5/5,Sinopharm/Beijing,1391195
+16716,European Union,2021/5/5,Sputnik V,1302893
+16717,European Union,2021/5/6,Johnson&Johnson,594231
+16718,European Union,2021/5/6,Moderna,11949270
+16719,European Union,2021/5/6,Oxford/AstraZeneca,30794689
+16720,European Union,2021/5/6,Pfizer/BioNTech,112816770
+16721,European Union,2021/5/6,Sinopharm/Beijing,1391195
+16722,European Union,2021/5/6,Sputnik V,1302893
+16723,European Union,2021/5/7,Johnson&Johnson,843682
+16724,European Union,2021/5/7,Moderna,13083057
+16725,European Union,2021/5/7,Oxford/AstraZeneca,33032654
+16726,European Union,2021/5/7,Pfizer/BioNTech,121242061
+16727,European Union,2021/5/7,Sinopharm/Beijing,1464478
+16728,European Union,2021/5/7,Sputnik V,1520581
+16729,European Union,2021/5/8,Johnson&Johnson,865796
+16730,European Union,2021/5/8,Moderna,13260087
+16731,European Union,2021/5/8,Oxford/AstraZeneca,33245381
+16732,European Union,2021/5/8,Pfizer/BioNTech,122212872
+16733,European Union,2021/5/8,Sinopharm/Beijing,1464478
+16734,European Union,2021/5/8,Sputnik V,1520581
+16735,European Union,2021/5/9,Johnson&Johnson,876848
+16736,European Union,2021/5/9,Moderna,13381577
+16737,European Union,2021/5/9,Oxford/AstraZeneca,33381954
+16738,European Union,2021/5/9,Pfizer/BioNTech,122921224
+16739,European Union,2021/5/9,Sinopharm/Beijing,1464478
+16740,European Union,2021/5/9,Sputnik V,1520581
+16741,European Union,2021/5/10,Johnson&Johnson,899576
+16742,European Union,2021/5/10,Moderna,13575924
+16743,European Union,2021/5/10,Oxford/AstraZeneca,33665469
+16744,European Union,2021/5/10,Pfizer/BioNTech,124179176
+16745,European Union,2021/5/10,Sinopharm/Beijing,1464478
+16746,European Union,2021/5/10,Sputnik V,1520581
+16747,European Union,2021/5/11,Johnson&Johnson,933130
+16748,European Union,2021/5/11,Moderna,13802644
+16749,European Union,2021/5/11,Oxford/AstraZeneca,34015350
+16750,European Union,2021/5/11,Pfizer/BioNTech,125981820
+16751,European Union,2021/5/11,Sinopharm/Beijing,1464478
+16752,European Union,2021/5/11,Sputnik V,1520581
+16753,European Union,2021/5/12,Johnson&Johnson,964016
+16754,European Union,2021/5/12,Moderna,14046040
+16755,European Union,2021/5/12,Oxford/AstraZeneca,34403650
+16756,European Union,2021/5/12,Pfizer/BioNTech,128102163
+16757,European Union,2021/5/12,Sinopharm/Beijing,1464478
+16758,European Union,2021/5/12,Sputnik V,1520581
+16759,European Union,2021/5/13,Johnson&Johnson,982882
+16760,European Union,2021/5/13,Moderna,14236656
+16761,European Union,2021/5/13,Oxford/AstraZeneca,34563652
+16762,European Union,2021/5/13,Pfizer/BioNTech,129302414
+16763,European Union,2021/5/13,Sinopharm/Beijing,1464478
+16764,European Union,2021/5/13,Sputnik V,1520581
+16765,European Union,2021/5/14,Johnson&Johnson,1251647
+16766,European Union,2021/5/14,Moderna,15651367
+16767,European Union,2021/5/14,Oxford/AstraZeneca,36314157
+16768,European Union,2021/5/14,Pfizer/BioNTech,138009416
+16769,European Union,2021/5/14,Sinopharm/Beijing,1515513
+16770,European Union,2021/5/14,Sputnik V,1609566
+16771,European Union,2021/5/15,Johnson&Johnson,1280128
+16772,European Union,2021/5/15,Moderna,15848945
+16773,European Union,2021/5/15,Oxford/AstraZeneca,36505692
+16774,European Union,2021/5/15,Pfizer/BioNTech,139170440
+16775,European Union,2021/5/15,Sinopharm/Beijing,1515513
+16776,European Union,2021/5/15,Sputnik V,1609566
+16777,European Union,2021/5/16,Johnson&Johnson,1302994
+16778,European Union,2021/5/16,Moderna,15989642
+16779,European Union,2021/5/16,Oxford/AstraZeneca,36622064
+16780,European Union,2021/5/16,Pfizer/BioNTech,139939547
+16781,European Union,2021/5/16,Sinopharm/Beijing,1515513
+16782,European Union,2021/5/16,Sputnik V,1609566
+16783,European Union,2021/5/17,Johnson&Johnson,1340936
+16784,European Union,2021/5/17,Moderna,16191404
+16785,European Union,2021/5/17,Oxford/AstraZeneca,36867021
+16786,European Union,2021/5/17,Pfizer/BioNTech,141187185
+16787,European Union,2021/5/17,Sinopharm/Beijing,1515513
+16788,European Union,2021/5/17,Sputnik V,1609566
+16789,European Union,2021/5/18,Johnson&Johnson,1384046
+16790,European Union,2021/5/18,Moderna,16432375
+16791,European Union,2021/5/18,Oxford/AstraZeneca,37197426
+16792,European Union,2021/5/18,Pfizer/BioNTech,142724280
+16793,European Union,2021/5/18,Sinopharm/Beijing,1515513
+16794,European Union,2021/5/18,Sputnik V,1609566
+16795,European Union,2021/5/19,Johnson&Johnson,1430361
+16796,European Union,2021/5/19,Moderna,16679520
+16797,European Union,2021/5/19,Oxford/AstraZeneca,37538227
+16798,European Union,2021/5/19,Pfizer/BioNTech,144496570
+16799,European Union,2021/5/19,Sinopharm/Beijing,1515513
+16800,European Union,2021/5/19,Sputnik V,1609566
+16801,European Union,2021/5/20,Johnson&Johnson,1480949
+16802,European Union,2021/5/20,Moderna,16915137
+16803,European Union,2021/5/20,Oxford/AstraZeneca,37867439
+16804,European Union,2021/5/20,Pfizer/BioNTech,146260661
+16805,European Union,2021/5/20,Sinopharm/Beijing,1515513
+16806,European Union,2021/5/20,Sputnik V,1609566
+16807,European Union,2021/5/21,Johnson&Johnson,1936740
+16808,European Union,2021/5/21,Moderna,18524363
+16809,European Union,2021/5/21,Oxford/AstraZeneca,39527220
+16810,European Union,2021/5/21,Pfizer/BioNTech,155056249
+16811,European Union,2021/5/21,Sinopharm/Beijing,1556829
+16812,European Union,2021/5/21,Sputnik V,1632758
+16813,European Union,2021/5/22,Johnson&Johnson,1998507
+16814,European Union,2021/5/22,Moderna,18737649
+16815,European Union,2021/5/22,Oxford/AstraZeneca,39746445
+16816,European Union,2021/5/22,Pfizer/BioNTech,156116184
+16817,European Union,2021/5/22,Sinopharm/Beijing,1556829
+16818,European Union,2021/5/22,Sputnik V,1632758
+16819,European Union,2021/5/23,Johnson&Johnson,2046746
+16820,European Union,2021/5/23,Moderna,18898092
+16821,European Union,2021/5/23,Oxford/AstraZeneca,39843341
+16822,European Union,2021/5/23,Pfizer/BioNTech,156767608
+16823,European Union,2021/5/23,Sinopharm/Beijing,1556829
+16824,European Union,2021/5/23,Sputnik V,1632758
+16825,European Union,2021/5/24,Johnson&Johnson,2096454
+16826,European Union,2021/5/24,Moderna,19066171
+16827,European Union,2021/5/24,Oxford/AstraZeneca,39966489
+16828,European Union,2021/5/24,Pfizer/BioNTech,157661629
+16829,European Union,2021/5/24,Sinopharm/Beijing,1556829
+16830,European Union,2021/5/24,Sputnik V,1632758
+16831,European Union,2021/5/25,Johnson&Johnson,2168545
+16832,European Union,2021/5/25,Moderna,19296823
+16833,European Union,2021/5/25,Oxford/AstraZeneca,40243913
+16834,European Union,2021/5/25,Pfizer/BioNTech,158980924
+16835,European Union,2021/5/25,Sinopharm/Beijing,1556829
+16836,European Union,2021/5/25,Sputnik V,1632758
+16837,European Union,2021/5/26,Johnson&Johnson,2296535
+16838,European Union,2021/5/26,Moderna,19538009
+16839,European Union,2021/5/26,Oxford/AstraZeneca,40561448
+16840,European Union,2021/5/26,Pfizer/BioNTech,160799229
+16841,European Union,2021/5/26,Sinopharm/Beijing,1556829
+16842,European Union,2021/5/26,Sputnik V,1632758
+16843,European Union,2021/5/27,Johnson&Johnson,2425136
+16844,European Union,2021/5/27,Moderna,19758455
+16845,European Union,2021/5/27,Oxford/AstraZeneca,40895898
+16846,European Union,2021/5/27,Pfizer/BioNTech,162611516
+16847,European Union,2021/5/27,Sinopharm/Beijing,1556829
+16848,European Union,2021/5/27,Sputnik V,1632758
+16849,European Union,2021/5/28,Johnson&Johnson,3113277
+16850,European Union,2021/5/28,Moderna,21195573
+16851,European Union,2021/5/28,Oxford/AstraZeneca,42262382
+16852,European Union,2021/5/28,Pfizer/BioNTech,171098818
+16853,European Union,2021/5/28,Sinopharm/Beijing,1852676
+16854,European Union,2021/5/28,Sputnik V,1694187
+16855,European Union,2021/5/29,Johnson&Johnson,3178119
+16856,European Union,2021/5/29,Moderna,21360089
+16857,European Union,2021/5/29,Oxford/AstraZeneca,42468434
+16858,European Union,2021/5/29,Pfizer/BioNTech,172181809
+16859,European Union,2021/5/29,Sinopharm/Beijing,1852676
+16860,European Union,2021/5/29,Sputnik V,1694187
+16861,European Union,2021/5/30,Johnson&Johnson,3214622
+16862,European Union,2021/5/30,Moderna,21456348
+16863,European Union,2021/5/30,Oxford/AstraZeneca,42562878
+16864,European Union,2021/5/30,Pfizer/BioNTech,172890068
+16865,European Union,2021/5/30,Sinopharm/Beijing,1852676
+16866,European Union,2021/5/30,Sputnik V,1694187
+16867,European Union,2021/5/31,Johnson&Johnson,3336430
+16868,European Union,2021/5/31,Moderna,21670462
+16869,European Union,2021/5/31,Oxford/AstraZeneca,42761195
+16870,European Union,2021/5/31,Pfizer/BioNTech,174122464
+16871,European Union,2021/5/31,Sinopharm/Beijing,1852676
+16872,European Union,2021/5/31,Sputnik V,1694187
+16873,European Union,2021/6/1,Johnson&Johnson,3515526
+16874,European Union,2021/6/1,Moderna,21913281
+16875,European Union,2021/6/1,Oxford/AstraZeneca,43004502
+16876,European Union,2021/6/1,Pfizer/BioNTech,175770289
+16877,European Union,2021/6/1,Sinopharm/Beijing,1852676
+16878,European Union,2021/6/1,Sputnik V,1694187
+16879,European Union,2021/6/2,Johnson&Johnson,3683486
+16880,European Union,2021/6/2,Moderna,22105188
+16881,European Union,2021/6/2,Oxford/AstraZeneca,43202644
+16882,European Union,2021/6/2,Pfizer/BioNTech,177710715
+16883,European Union,2021/6/2,Sinopharm/Beijing,1852676
+16884,European Union,2021/6/2,Sputnik V,1694187
+16885,European Union,2021/6/3,Johnson&Johnson,3806979
+16886,European Union,2021/6/3,Moderna,22313856
+16887,European Union,2021/6/3,Oxford/AstraZeneca,43425502
+16888,European Union,2021/6/3,Pfizer/BioNTech,179313092
+16889,European Union,2021/6/3,Sinopharm/Beijing,1852676
+16890,European Union,2021/6/3,Sputnik V,1694187
+16891,European Union,2021/6/4,Johnson&Johnson,4582042
+16892,European Union,2021/6/4,Moderna,23637879
+16893,European Union,2021/6/4,Oxford/AstraZeneca,44914037
+16894,European Union,2021/6/4,Pfizer/BioNTech,189353047
+16895,European Union,2021/6/4,Sinopharm/Beijing,1932634
+16896,European Union,2021/6/4,Sputnik V,1746818
+16897,European Union,2021/6/5,Johnson&Johnson,4686006
+16898,European Union,2021/6/5,Moderna,23813269
+16899,European Union,2021/6/5,Oxford/AstraZeneca,45083461
+16900,European Union,2021/6/5,Pfizer/BioNTech,190562517
+16901,European Union,2021/6/5,Sinopharm/Beijing,1932634
+16902,European Union,2021/6/5,Sputnik V,1746818
+16903,European Union,2021/6/6,Johnson&Johnson,4759285
+16904,European Union,2021/6/6,Moderna,23899000
+16905,European Union,2021/6/6,Oxford/AstraZeneca,45187447
+16906,European Union,2021/6/6,Pfizer/BioNTech,191390648
+16907,European Union,2021/6/6,Sinopharm/Beijing,1932634
+16908,European Union,2021/6/6,Sputnik V,1746818
+16909,European Union,2021/6/7,Johnson&Johnson,4871436
+16910,European Union,2021/6/7,Moderna,24094807
+16911,European Union,2021/6/7,Oxford/AstraZeneca,45380942
+16912,European Union,2021/6/7,Pfizer/BioNTech,192853910
+16913,European Union,2021/6/7,Sinopharm/Beijing,1932634
+16914,European Union,2021/6/7,Sputnik V,1746818
+16915,European Union,2021/6/8,Johnson&Johnson,5008544
+16916,European Union,2021/6/8,Moderna,24314194
+16917,European Union,2021/6/8,Oxford/AstraZeneca,45589198
+16918,European Union,2021/6/8,Pfizer/BioNTech,194795279
+16919,European Union,2021/6/8,Sinopharm/Beijing,1932634
+16920,European Union,2021/6/8,Sputnik V,1746818
+16921,European Union,2021/6/9,Johnson&Johnson,5169291
+16922,European Union,2021/6/9,Moderna,24538479
+16923,European Union,2021/6/9,Oxford/AstraZeneca,45799281
+16924,European Union,2021/6/9,Pfizer/BioNTech,197064363
+16925,European Union,2021/6/9,Sinopharm/Beijing,1932634
+16926,European Union,2021/6/9,Sputnik V,1746818
+16927,European Union,2021/6/10,Johnson&Johnson,5319849
+16928,European Union,2021/6/10,Moderna,24748366
+16929,European Union,2021/6/10,Oxford/AstraZeneca,46015940
+16930,European Union,2021/6/10,Pfizer/BioNTech,199185513
+16931,European Union,2021/6/10,Sinopharm/Beijing,1932634
+16932,European Union,2021/6/10,Sputnik V,1746818
+16933,European Union,2021/6/11,Johnson&Johnson,5994372
+16934,European Union,2021/6/11,Moderna,26304656
+16935,European Union,2021/6/11,Oxford/AstraZeneca,47793289
+16936,European Union,2021/6/11,Pfizer/BioNTech,210332663
+16937,European Union,2021/6/11,Sinopharm/Beijing,1988148
+16938,European Union,2021/6/11,Sputnik V,1772391
+16939,European Union,2021/6/12,Johnson&Johnson,6058627
+16940,European Union,2021/6/12,Moderna,26477721
+16941,European Union,2021/6/12,Oxford/AstraZeneca,47909029
+16942,European Union,2021/6/12,Pfizer/BioNTech,211576365
+16943,European Union,2021/6/12,Sinopharm/Beijing,1988148
+16944,European Union,2021/6/12,Sputnik V,1772391
+16945,European Union,2021/6/13,Johnson&Johnson,6083162
+16946,European Union,2021/6/13,Moderna,26605527
+16947,European Union,2021/6/13,Oxford/AstraZeneca,47957588
+16948,European Union,2021/6/13,Pfizer/BioNTech,212347743
+16949,European Union,2021/6/13,Sinopharm/Beijing,1988148
+16950,European Union,2021/6/13,Sputnik V,1772391
+16951,European Union,2021/6/14,Johnson&Johnson,6161080
+16952,European Union,2021/6/14,Moderna,26823458
+16953,European Union,2021/6/14,Oxford/AstraZeneca,48110680
+16954,European Union,2021/6/14,Pfizer/BioNTech,213840442
+16955,European Union,2021/6/14,Sinopharm/Beijing,1988148
+16956,European Union,2021/6/14,Sputnik V,1772391
+16957,European Union,2021/6/15,Johnson&Johnson,6249147
+16958,European Union,2021/6/15,Moderna,27081486
+16959,European Union,2021/6/15,Oxford/AstraZeneca,48327854
+16960,European Union,2021/6/15,Pfizer/BioNTech,215716374
+16961,European Union,2021/6/15,Sinopharm/Beijing,1988148
+16962,European Union,2021/6/15,Sputnik V,1772391
+16963,European Union,2021/6/16,Johnson&Johnson,6353584
+16964,European Union,2021/6/16,Moderna,27340324
+16965,European Union,2021/6/16,Oxford/AstraZeneca,48548982
+16966,European Union,2021/6/16,Pfizer/BioNTech,217912139
+16967,European Union,2021/6/16,Sinopharm/Beijing,1988148
+16968,European Union,2021/6/16,Sputnik V,1772391
+16969,European Union,2021/6/17,Johnson&Johnson,6451303
+16970,European Union,2021/6/17,Moderna,27586978
+16971,European Union,2021/6/17,Oxford/AstraZeneca,48798515
+16972,European Union,2021/6/17,Pfizer/BioNTech,219923897
+16973,European Union,2021/6/17,Sinopharm/Beijing,1988148
+16974,European Union,2021/6/17,Sputnik V,1772391
+16975,European Union,2021/6/18,Johnson&Johnson,7007886
+16976,European Union,2021/6/18,Moderna,29058673
+16977,European Union,2021/6/18,Oxford/AstraZeneca,50657979
+16978,European Union,2021/6/18,Pfizer/BioNTech,230540373
+16979,European Union,2021/6/18,Sinopharm/Beijing,2018784
+16980,European Union,2021/6/18,Sputnik V,1785934
+16981,European Union,2021/6/19,Johnson&Johnson,7043786
+16982,European Union,2021/6/19,Moderna,29250067
+16983,European Union,2021/6/19,Oxford/AstraZeneca,50786251
+16984,European Union,2021/6/19,Pfizer/BioNTech,231754382
+16985,European Union,2021/6/19,Sinopharm/Beijing,2018784
+16986,European Union,2021/6/19,Sputnik V,1785934
+16987,European Union,2021/6/20,Johnson&Johnson,7062821
+16988,European Union,2021/6/20,Moderna,29385235
+16989,European Union,2021/6/20,Oxford/AstraZeneca,50852610
+16990,European Union,2021/6/20,Pfizer/BioNTech,232507285
+16991,European Union,2021/6/20,Sinopharm/Beijing,2018784
+16992,European Union,2021/6/20,Sputnik V,1785934
+16993,European Union,2021/6/21,Johnson&Johnson,7114319
+16994,European Union,2021/6/21,Moderna,29615382
+16995,European Union,2021/6/21,Oxford/AstraZeneca,51040583
+16996,European Union,2021/6/21,Pfizer/BioNTech,233967587
+16997,European Union,2021/6/21,Sinopharm/Beijing,2018784
+16998,European Union,2021/6/21,Sputnik V,1785934
+16999,European Union,2021/6/22,Johnson&Johnson,7169847
+17000,European Union,2021/6/22,Moderna,29886562
+17001,European Union,2021/6/22,Oxford/AstraZeneca,51276450
+17002,European Union,2021/6/22,Pfizer/BioNTech,235893916
+17003,European Union,2021/6/22,Sinopharm/Beijing,2018784
+17004,European Union,2021/6/22,Sputnik V,1785934
+17005,European Union,2021/6/23,Johnson&Johnson,7225532
+17006,European Union,2021/6/23,Moderna,30153212
+17007,European Union,2021/6/23,Oxford/AstraZeneca,51507269
+17008,European Union,2021/6/23,Pfizer/BioNTech,238061406
+17009,European Union,2021/6/23,Sinopharm/Beijing,2018784
+17010,European Union,2021/6/23,Sputnik V,1785934
+17011,European Union,2021/6/24,Johnson&Johnson,7288071
+17012,European Union,2021/6/24,Moderna,30382233
+17013,European Union,2021/6/24,Oxford/AstraZeneca,51750488
+17014,European Union,2021/6/24,Pfizer/BioNTech,239970820
+17015,European Union,2021/6/24,Sinopharm/Beijing,2018784
+17016,European Union,2021/6/24,Sputnik V,1785934
+17017,European Union,2021/6/25,Johnson&Johnson,7789209
+17018,European Union,2021/6/25,Moderna,31745814
+17019,European Union,2021/6/25,Oxford/AstraZeneca,53959983
+17020,European Union,2021/6/25,Pfizer/BioNTech,250215542
+17021,European Union,2021/6/25,Sinopharm/Beijing,2035373
+17022,European Union,2021/6/25,Sputnik V,1794656
+17023,European Union,2021/6/26,Johnson&Johnson,7814522
+17024,European Union,2021/6/26,Moderna,31948601
+17025,European Union,2021/6/26,Oxford/AstraZeneca,54121895
+17026,European Union,2021/6/26,Pfizer/BioNTech,251390832
+17027,European Union,2021/6/26,Sinopharm/Beijing,2035373
+17028,European Union,2021/6/26,Sputnik V,1794656
+17029,European Union,2021/6/27,Johnson&Johnson,7826171
+17030,European Union,2021/6/27,Moderna,32088749
+17031,European Union,2021/6/27,Oxford/AstraZeneca,54226891
+17032,European Union,2021/6/27,Pfizer/BioNTech,252134976
+17033,European Union,2021/6/27,Sinopharm/Beijing,2035373
+17034,European Union,2021/6/27,Sputnik V,1794656
+17035,European Union,2021/6/28,Johnson&Johnson,7866096
+17036,European Union,2021/6/28,Moderna,32317223
+17037,European Union,2021/6/28,Oxford/AstraZeneca,54450138
+17038,European Union,2021/6/28,Pfizer/BioNTech,253587357
+17039,European Union,2021/6/28,Sinopharm/Beijing,2035373
+17040,European Union,2021/6/28,Sputnik V,1794656
+17041,European Union,2021/6/29,Johnson&Johnson,7907466
+17042,European Union,2021/6/29,Moderna,32579492
+17043,European Union,2021/6/29,Oxford/AstraZeneca,54747381
+17044,European Union,2021/6/29,Pfizer/BioNTech,255323493
+17045,European Union,2021/6/29,Sinopharm/Beijing,2035373
+17046,European Union,2021/6/29,Sputnik V,1794656
+17047,European Union,2021/6/30,Johnson&Johnson,7950191
+17048,European Union,2021/6/30,Moderna,32832243
+17049,European Union,2021/6/30,Oxford/AstraZeneca,55047498
+17050,European Union,2021/6/30,Pfizer/BioNTech,257164935
+17051,European Union,2021/6/30,Sinopharm/Beijing,2035373
+17052,European Union,2021/6/30,Sputnik V,1794656
+17053,European Union,2021/7/1,Johnson&Johnson,7994712
+17054,European Union,2021/7/1,Moderna,33060707
+17055,European Union,2021/7/1,Oxford/AstraZeneca,55342987
+17056,European Union,2021/7/1,Pfizer/BioNTech,258979542
+17057,European Union,2021/7/1,Sinopharm/Beijing,2035373
+17058,European Union,2021/7/1,Sputnik V,1794656
+17059,European Union,2021/7/2,Johnson&Johnson,8500672
+17060,European Union,2021/7/2,Moderna,34279418
+17061,European Union,2021/7/2,Oxford/AstraZeneca,57703357
+17062,European Union,2021/7/2,Pfizer/BioNTech,268917307
+17063,European Union,2021/7/2,Sinopharm/Beijing,2046334
+17064,European Union,2021/7/2,Sputnik V,1804450
+17065,European Union,2021/7/3,Johnson&Johnson,8530889
+17066,European Union,2021/7/3,Moderna,34483923
+17067,European Union,2021/7/3,Oxford/AstraZeneca,57848267
+17068,European Union,2021/7/3,Pfizer/BioNTech,270020629
+17069,European Union,2021/7/3,Sinopharm/Beijing,2046334
+17070,European Union,2021/7/3,Sputnik V,1804450
+17071,European Union,2021/7/4,Johnson&Johnson,8545936
+17072,European Union,2021/7/4,Moderna,34618816
+17073,European Union,2021/7/4,Oxford/AstraZeneca,57932229
+17074,European Union,2021/7/4,Pfizer/BioNTech,270715794
+17075,European Union,2021/7/4,Sinopharm/Beijing,2046334
+17076,European Union,2021/7/4,Sputnik V,1804450
+17077,European Union,2021/7/5,Johnson&Johnson,8575758
+17078,European Union,2021/7/5,Moderna,34836884
+17079,European Union,2021/7/5,Oxford/AstraZeneca,58095059
+17080,European Union,2021/7/5,Pfizer/BioNTech,272026141
+17081,European Union,2021/7/5,Sinopharm/Beijing,2046334
+17082,European Union,2021/7/5,Sputnik V,1804450
+17083,European Union,2021/7/6,Johnson&Johnson,8610543
+17084,European Union,2021/7/6,Moderna,35062858
+17085,European Union,2021/7/6,Oxford/AstraZeneca,58290958
+17086,European Union,2021/7/6,Pfizer/BioNTech,273618372
+17087,European Union,2021/7/6,Sinopharm/Beijing,2046334
+17088,European Union,2021/7/6,Sputnik V,1804450
+17089,European Union,2021/7/7,Johnson&Johnson,8649065
+17090,European Union,2021/7/7,Moderna,35287264
+17091,European Union,2021/7/7,Oxford/AstraZeneca,58501113
+17092,European Union,2021/7/7,Pfizer/BioNTech,275474396
+17093,European Union,2021/7/7,Sinopharm/Beijing,2046334
+17094,European Union,2021/7/7,Sputnik V,1804450
+17095,European Union,2021/7/8,Johnson&Johnson,8689712
+17096,European Union,2021/7/8,Moderna,35507852
+17097,European Union,2021/7/8,Oxford/AstraZeneca,58710958
+17098,European Union,2021/7/8,Pfizer/BioNTech,277215726
+17099,European Union,2021/7/8,Sinopharm/Beijing,2046334
+17100,European Union,2021/7/8,Sputnik V,1804450
+17101,European Union,2021/7/9,Johnson&Johnson,9172425
+17102,European Union,2021/7/9,Moderna,36844687
+17103,European Union,2021/7/9,Oxford/AstraZeneca,60807506
+17104,European Union,2021/7/9,Pfizer/BioNTech,286571516
+17105,European Union,2021/7/9,Sinopharm/Beijing,2055481
+17106,European Union,2021/7/9,Sputnik V,1813753
+17107,European Union,2021/7/10,Johnson&Johnson,9197083
+17108,European Union,2021/7/10,Moderna,37021834
+17109,European Union,2021/7/10,Oxford/AstraZeneca,60958259
+17110,European Union,2021/7/10,Pfizer/BioNTech,287691006
+17111,European Union,2021/7/10,Sinopharm/Beijing,2055481
+17112,European Union,2021/7/10,Sputnik V,1813753
+17113,European Union,2021/7/11,Johnson&Johnson,9212533
+17114,European Union,2021/7/11,Moderna,37124513
+17115,European Union,2021/7/11,Oxford/AstraZeneca,61035374
+17116,European Union,2021/7/11,Pfizer/BioNTech,288356533
+17117,European Union,2021/7/11,Sinopharm/Beijing,2055481
+17118,European Union,2021/7/11,Sputnik V,1813753
+17119,European Union,2021/7/12,Johnson&Johnson,9242458
+17120,European Union,2021/7/12,Moderna,37324765
+17121,European Union,2021/7/12,Oxford/AstraZeneca,61193081
+17122,European Union,2021/7/12,Pfizer/BioNTech,289766228
+17123,European Union,2021/7/12,Sinopharm/Beijing,2055481
+17124,European Union,2021/7/12,Sputnik V,1813753
+17125,European Union,2021/7/13,Johnson&Johnson,9288431
+17126,European Union,2021/7/13,Moderna,37575091
+17127,European Union,2021/7/13,Oxford/AstraZeneca,61363155
+17128,European Union,2021/7/13,Pfizer/BioNTech,291566165
+17129,European Union,2021/7/13,Sinopharm/Beijing,2055481
+17130,European Union,2021/7/13,Sputnik V,1813753
+17131,European Union,2021/7/14,Johnson&Johnson,9327407
+17132,European Union,2021/7/14,Moderna,37747968
+17133,European Union,2021/7/14,Oxford/AstraZeneca,61517960
+17134,European Union,2021/7/14,Pfizer/BioNTech,293199405
+17135,European Union,2021/7/14,Sinopharm/Beijing,2055481
+17136,European Union,2021/7/14,Sputnik V,1813753
+17137,European Union,2021/7/15,Johnson&Johnson,9381503
+17138,European Union,2021/7/15,Moderna,37988748
+17139,European Union,2021/7/15,Oxford/AstraZeneca,61689144
+17140,European Union,2021/7/15,Pfizer/BioNTech,295079237
+17141,European Union,2021/7/15,Sinopharm/Beijing,2055481
+17142,European Union,2021/7/15,Sputnik V,1813753
+17143,European Union,2021/7/16,Johnson&Johnson,9952445
+17144,European Union,2021/7/16,Moderna,39517917
+17145,European Union,2021/7/16,Oxford/AstraZeneca,62921180
+17146,European Union,2021/7/16,Pfizer/BioNTech,303502667
+17147,European Union,2021/7/16,Sinopharm/Beijing,2061652
+17148,European Union,2021/7/16,Sputnik V,1819760
+17149,European Union,2021/7/17,Johnson&Johnson,9988147
+17150,European Union,2021/7/17,Moderna,39697651
+17151,European Union,2021/7/17,Oxford/AstraZeneca,63034852
+17152,European Union,2021/7/17,Pfizer/BioNTech,304618533
+17153,European Union,2021/7/17,Sinopharm/Beijing,2061652
+17154,European Union,2021/7/17,Sputnik V,1819760
+17155,European Union,2021/7/18,Johnson&Johnson,10005106
+17156,European Union,2021/7/18,Moderna,39806423
+17157,European Union,2021/7/18,Oxford/AstraZeneca,63116954
+17158,European Union,2021/7/18,Pfizer/BioNTech,305323634
+17159,European Union,2021/7/18,Sinopharm/Beijing,2061652
+17160,European Union,2021/7/18,Sputnik V,1819760
+17161,European Union,2021/7/19,Johnson&Johnson,10042829
+17162,European Union,2021/7/19,Moderna,39990391
+17163,European Union,2021/7/19,Oxford/AstraZeneca,63252975
+17164,European Union,2021/7/19,Pfizer/BioNTech,306741281
+17165,European Union,2021/7/19,Sinopharm/Beijing,2061652
+17166,European Union,2021/7/19,Sputnik V,1819760
+17167,European Union,2021/7/20,Johnson&Johnson,10087744
+17168,European Union,2021/7/20,Moderna,40217821
+17169,European Union,2021/7/20,Oxford/AstraZeneca,63407897
+17170,European Union,2021/7/20,Pfizer/BioNTech,308431097
+17171,European Union,2021/7/20,Sinopharm/Beijing,2061652
+17172,European Union,2021/7/20,Sputnik V,1819760
+17173,European Union,2021/7/21,Johnson&Johnson,10132254
+17174,European Union,2021/7/21,Moderna,40438376
+17175,European Union,2021/7/21,Oxford/AstraZeneca,63566202
+17176,European Union,2021/7/21,Pfizer/BioNTech,310260254
+17177,European Union,2021/7/21,Sinopharm/Beijing,2061652
+17178,European Union,2021/7/21,Sputnik V,1819760
+17179,European Union,2021/7/22,Johnson&Johnson,10179467
+17180,European Union,2021/7/22,Moderna,40659852
+17181,European Union,2021/7/22,Oxford/AstraZeneca,63729720
+17182,European Union,2021/7/22,Pfizer/BioNTech,311986256
+17183,European Union,2021/7/22,Sinopharm/Beijing,2061652
+17184,European Union,2021/7/22,Sputnik V,1819760
+17185,European Union,2021/7/23,Johnson&Johnson,10729913
+17186,European Union,2021/7/23,Moderna,41960793
+17187,European Union,2021/7/23,Oxford/AstraZeneca,64558723
+17188,European Union,2021/7/23,Pfizer/BioNTech,319611608
+17189,European Union,2021/7/23,Sinopharm/Beijing,2066542
+17190,European Union,2021/7/23,Sputnik V,1823987
+17191,European Union,2021/7/24,Johnson&Johnson,10761266
+17192,European Union,2021/7/24,Moderna,42128654
+17193,European Union,2021/7/24,Oxford/AstraZeneca,64660314
+17194,European Union,2021/7/24,Pfizer/BioNTech,320623394
+17195,European Union,2021/7/24,Sinopharm/Beijing,2066542
+17196,European Union,2021/7/24,Sputnik V,1823987
+17197,European Union,2021/7/25,Johnson&Johnson,10774695
+17198,European Union,2021/7/25,Moderna,42219182
+17199,European Union,2021/7/25,Oxford/AstraZeneca,64722768
+17200,European Union,2021/7/25,Pfizer/BioNTech,321182277
+17201,European Union,2021/7/25,Sinopharm/Beijing,2066542
+17202,European Union,2021/7/25,Sputnik V,1823987
+17203,European Union,2021/7/26,Johnson&Johnson,10810395
+17204,European Union,2021/7/26,Moderna,42398401
+17205,European Union,2021/7/26,Oxford/AstraZeneca,64836331
+17206,European Union,2021/7/26,Pfizer/BioNTech,322519027
+17207,European Union,2021/7/26,Sinopharm/Beijing,2066542
+17208,European Union,2021/7/26,Sputnik V,1823987
+17209,European Union,2021/7/27,Johnson&Johnson,10854204
+17210,European Union,2021/7/27,Moderna,42624307
+17211,European Union,2021/7/27,Oxford/AstraZeneca,64958481
+17212,European Union,2021/7/27,Pfizer/BioNTech,324127889
+17213,European Union,2021/7/27,Sinopharm/Beijing,2066542
+17214,European Union,2021/7/27,Sputnik V,1823987
+17215,European Union,2021/7/28,Johnson&Johnson,10898316
+17216,European Union,2021/7/28,Moderna,42860780
+17217,European Union,2021/7/28,Oxford/AstraZeneca,65078507
+17218,European Union,2021/7/28,Pfizer/BioNTech,325793934
+17219,European Union,2021/7/28,Sinopharm/Beijing,2066542
+17220,European Union,2021/7/28,Sputnik V,1823987
+17221,European Union,2021/7/29,Johnson&Johnson,10942848
+17222,European Union,2021/7/29,Moderna,43113261
+17223,European Union,2021/7/29,Oxford/AstraZeneca,65188352
+17224,European Union,2021/7/29,Pfizer/BioNTech,327352297
+17225,European Union,2021/7/29,Sinopharm/Beijing,2066542
+17226,European Union,2021/7/29,Sputnik V,1823987
+17227,European Union,2021/7/30,Johnson&Johnson,11353192
+17228,European Union,2021/7/30,Moderna,44257657
+17229,European Union,2021/7/30,Oxford/AstraZeneca,65761868
+17230,European Union,2021/7/30,Pfizer/BioNTech,334082476
+17231,European Union,2021/7/30,Sinopharm/Beijing,2070374
+17232,European Union,2021/7/30,Sputnik V,1829141
+17233,European Union,2021/7/31,Johnson&Johnson,11382468
+17234,European Union,2021/7/31,Moderna,44433094
+17235,European Union,2021/7/31,Oxford/AstraZeneca,65819613
+17236,European Union,2021/7/31,Pfizer/BioNTech,334959887
+17237,European Union,2021/7/31,Sinopharm/Beijing,2070374
+17238,European Union,2021/7/31,Sputnik V,1829141
+17239,European Union,2021/8/1,Johnson&Johnson,11395461
+17240,European Union,2021/8/1,Moderna,44536600
+17241,European Union,2021/8/1,Oxford/AstraZeneca,65858091
+17242,European Union,2021/8/1,Pfizer/BioNTech,335407916
+17243,European Union,2021/8/1,Sinopharm/Beijing,2070374
+17244,European Union,2021/8/1,Sputnik V,1829141
+17245,European Union,2021/8/2,Johnson&Johnson,11426890
+17246,European Union,2021/8/2,Moderna,44712497
+17247,European Union,2021/8/2,Oxford/AstraZeneca,65921799
+17248,European Union,2021/8/2,Pfizer/BioNTech,336550658
+17249,European Union,2021/8/2,Sinopharm/Beijing,2070374
+17250,European Union,2021/8/2,Sputnik V,1829141
+17251,European Union,2021/8/3,Johnson&Johnson,11465640
+17252,European Union,2021/8/3,Moderna,44923299
+17253,European Union,2021/8/3,Oxford/AstraZeneca,65980956
+17254,European Union,2021/8/3,Pfizer/BioNTech,337888896
+17255,European Union,2021/8/3,Sinopharm/Beijing,2070374
+17256,European Union,2021/8/3,Sputnik V,1829141
+17257,European Union,2021/8/4,Johnson&Johnson,11501899
+17258,European Union,2021/8/4,Moderna,45124737
+17259,European Union,2021/8/4,Oxford/AstraZeneca,66039360
+17260,European Union,2021/8/4,Pfizer/BioNTech,339310053
+17261,European Union,2021/8/4,Sinopharm/Beijing,2070374
+17262,European Union,2021/8/4,Sputnik V,1829141
+17263,European Union,2021/8/5,Johnson&Johnson,11540037
+17264,European Union,2021/8/5,Moderna,45339626
+17265,European Union,2021/8/5,Oxford/AstraZeneca,66086502
+17266,European Union,2021/8/5,Pfizer/BioNTech,340657774
+17267,European Union,2021/8/5,Sinopharm/Beijing,2070374
+17268,European Union,2021/8/5,Sputnik V,1829141
+17269,European Union,2021/8/6,Johnson&Johnson,11947387
+17270,European Union,2021/8/6,Moderna,46387149
+17271,European Union,2021/8/6,Oxford/AstraZeneca,66333097
+17272,European Union,2021/8/6,Pfizer/BioNTech,346656270
+17273,European Union,2021/8/6,Sinopharm/Beijing,2073838
+17274,European Union,2021/8/6,Sputnik V,1831298
+17275,European Union,2021/8/7,Johnson&Johnson,11974323
+17276,European Union,2021/8/7,Moderna,46531169
+17277,European Union,2021/8/7,Oxford/AstraZeneca,66363529
+17278,European Union,2021/8/7,Pfizer/BioNTech,347412189
+17279,European Union,2021/8/7,Sinopharm/Beijing,2073838
+17280,European Union,2021/8/7,Sputnik V,1831298
+17281,European Union,2021/8/8,Johnson&Johnson,11984545
+17282,European Union,2021/8/8,Moderna,46619258
+17283,European Union,2021/8/8,Oxford/AstraZeneca,66381891
+17284,European Union,2021/8/8,Pfizer/BioNTech,347834209
+17285,European Union,2021/8/8,Sinopharm/Beijing,2073838
+17286,European Union,2021/8/8,Sputnik V,1831298
+17287,European Union,2021/8/9,Johnson&Johnson,12007635
+17288,European Union,2021/8/9,Moderna,46799535
+17289,European Union,2021/8/9,Oxford/AstraZeneca,66412767
+17290,European Union,2021/8/9,Pfizer/BioNTech,348886783
+17291,European Union,2021/8/9,Sinopharm/Beijing,2073838
+17292,European Union,2021/8/9,Sputnik V,1831298
+17293,European Union,2021/8/10,Johnson&Johnson,12034919
+17294,European Union,2021/8/10,Moderna,47007644
+17295,European Union,2021/8/10,Oxford/AstraZeneca,66446607
+17296,European Union,2021/8/10,Pfizer/BioNTech,350073176
+17297,European Union,2021/8/10,Sinopharm/Beijing,2073838
+17298,European Union,2021/8/10,Sputnik V,1831298
+17299,European Union,2021/8/11,Johnson&Johnson,12071490
+17300,European Union,2021/8/11,Moderna,47193956
+17301,European Union,2021/8/11,Oxford/AstraZeneca,66479639
+17302,European Union,2021/8/11,Pfizer/BioNTech,351331526
+17303,European Union,2021/8/11,Sinopharm/Beijing,2073838
+17304,European Union,2021/8/11,Sputnik V,1831298
+17305,European Union,2021/8/12,Johnson&Johnson,12111100
+17306,European Union,2021/8/12,Moderna,47375165
+17307,European Union,2021/8/12,Oxford/AstraZeneca,66505727
+17308,European Union,2021/8/12,Pfizer/BioNTech,352510796
+17309,European Union,2021/8/12,Sinopharm/Beijing,2073838
+17310,European Union,2021/8/12,Sputnik V,1831298
+17311,European Union,2021/8/13,Johnson&Johnson,12514977
+17312,European Union,2021/8/13,Moderna,48482074
+17313,European Union,2021/8/13,Oxford/AstraZeneca,66707527
+17314,European Union,2021/8/13,Pfizer/BioNTech,357435670
+17315,European Union,2021/8/13,Sinopharm/Beijing,2077832
+17316,European Union,2021/8/13,Sputnik V,1833737
+17317,European Union,2021/8/14,Johnson&Johnson,12540197
+17318,European Union,2021/8/14,Moderna,48587400
+17319,European Union,2021/8/14,Oxford/AstraZeneca,66715360
+17320,European Union,2021/8/14,Pfizer/BioNTech,357990659
+17321,European Union,2021/8/14,Sinopharm/Beijing,2077832
+17322,European Union,2021/8/14,Sputnik V,1833737
+17323,European Union,2021/8/15,Johnson&Johnson,12551647
+17324,European Union,2021/8/15,Moderna,48626197
+17325,European Union,2021/8/15,Oxford/AstraZeneca,66718615
+17326,European Union,2021/8/15,Pfizer/BioNTech,358215453
+17327,European Union,2021/8/15,Sinopharm/Beijing,2077832
+17328,European Union,2021/8/15,Sputnik V,1833737
+17329,European Union,2021/8/16,Johnson&Johnson,12578682
+17330,European Union,2021/8/16,Moderna,48760808
+17331,European Union,2021/8/16,Oxford/AstraZeneca,66733633
+17332,European Union,2021/8/16,Pfizer/BioNTech,359101893
+17333,European Union,2021/8/16,Sinopharm/Beijing,2077832
+17334,European Union,2021/8/16,Sputnik V,1833737
+17335,European Union,2021/8/17,Johnson&Johnson,12611404
+17336,European Union,2021/8/17,Moderna,48928494
+17337,European Union,2021/8/17,Oxford/AstraZeneca,66757096
+17338,European Union,2021/8/17,Pfizer/BioNTech,360096617
+17339,European Union,2021/8/17,Sinopharm/Beijing,2077832
+17340,European Union,2021/8/17,Sputnik V,1833737
+17341,European Union,2021/8/18,Johnson&Johnson,12647981
+17342,European Union,2021/8/18,Moderna,49083441
+17343,European Union,2021/8/18,Oxford/AstraZeneca,66778003
+17344,European Union,2021/8/18,Pfizer/BioNTech,361157181
+17345,European Union,2021/8/18,Sinopharm/Beijing,2077832
+17346,European Union,2021/8/18,Sputnik V,1833737
+17347,European Union,2021/8/19,Johnson&Johnson,12684191
+17348,European Union,2021/8/19,Moderna,49250355
+17349,European Union,2021/8/19,Oxford/AstraZeneca,66797365
+17350,European Union,2021/8/19,Pfizer/BioNTech,362092551
+17351,European Union,2021/8/19,Sinopharm/Beijing,2077832
+17352,European Union,2021/8/19,Sputnik V,1833737
+17353,European Union,2021/8/20,Johnson&Johnson,13013505
+17354,European Union,2021/8/20,Moderna,50213303
+17355,European Union,2021/8/20,Oxford/AstraZeneca,66862680
+17356,European Union,2021/8/20,Pfizer/BioNTech,366069733
+17357,European Union,2021/8/20,Sinopharm/Beijing,2081116
+17358,European Union,2021/8/20,Sputnik V,1835873
+17359,European Union,2021/8/21,Johnson&Johnson,13035963
+17360,European Union,2021/8/21,Moderna,50320818
+17361,European Union,2021/8/21,Oxford/AstraZeneca,66872331
+17362,European Union,2021/8/21,Pfizer/BioNTech,366612512
+17363,European Union,2021/8/21,Sinopharm/Beijing,2081116
+17364,European Union,2021/8/21,Sputnik V,1835873
+17365,European Union,2021/8/22,Johnson&Johnson,13046665
+17366,European Union,2021/8/22,Moderna,50373424
+17367,European Union,2021/8/22,Oxford/AstraZeneca,66879559
+17368,European Union,2021/8/22,Pfizer/BioNTech,366888517
+17369,European Union,2021/8/22,Sinopharm/Beijing,2081116
+17370,European Union,2021/8/22,Sputnik V,1835873
+17371,European Union,2021/8/23,Johnson&Johnson,13074811
+17372,European Union,2021/8/23,Moderna,50537362
+17373,European Union,2021/8/23,Oxford/AstraZeneca,66895957
+17374,European Union,2021/8/23,Pfizer/BioNTech,367785254
+17375,European Union,2021/8/23,Sinopharm/Beijing,2081116
+17376,European Union,2021/8/23,Sputnik V,1835873
+17377,European Union,2021/8/24,Johnson&Johnson,13106526
+17378,European Union,2021/8/24,Moderna,50719363
+17379,European Union,2021/8/24,Oxford/AstraZeneca,66907889
+17380,European Union,2021/8/24,Pfizer/BioNTech,368737865
+17381,European Union,2021/8/24,Sinopharm/Beijing,2081116
+17382,European Union,2021/8/24,Sputnik V,1835873
+17383,European Union,2021/8/25,Johnson&Johnson,13140128
+17384,European Union,2021/8/25,Moderna,50883324
+17385,European Union,2021/8/25,Oxford/AstraZeneca,66918601
+17386,European Union,2021/8/25,Pfizer/BioNTech,369723217
+17387,European Union,2021/8/25,Sinopharm/Beijing,2081116
+17388,European Union,2021/8/25,Sputnik V,1835873
+17389,European Union,2021/8/26,Johnson&Johnson,13173251
+17390,European Union,2021/8/26,Moderna,51057125
+17391,European Union,2021/8/26,Oxford/AstraZeneca,66928283
+17392,European Union,2021/8/26,Pfizer/BioNTech,370625904
+17393,European Union,2021/8/26,Sinopharm/Beijing,2081116
+17394,European Union,2021/8/26,Sputnik V,1835873
+17395,European Union,2021/8/27,Johnson&Johnson,13418718
+17396,European Union,2021/8/27,Moderna,51905563
+17397,European Union,2021/8/27,Oxford/AstraZeneca,66972134
+17398,European Union,2021/8/27,Pfizer/BioNTech,374017613
+17399,European Union,2021/8/27,Sinopharm/Beijing,2085862
+17400,European Union,2021/8/27,Sputnik V,1837474
+17401,European Union,2021/8/28,Johnson&Johnson,13440653
+17402,European Union,2021/8/28,Moderna,52029168
+17403,European Union,2021/8/28,Oxford/AstraZeneca,66975203
+17404,European Union,2021/8/28,Pfizer/BioNTech,374594874
+17405,European Union,2021/8/28,Sinopharm/Beijing,2085862
+17406,European Union,2021/8/28,Sputnik V,1837474
+17407,European Union,2021/8/29,Johnson&Johnson,13451120
+17408,European Union,2021/8/29,Moderna,52082750
+17409,European Union,2021/8/29,Oxford/AstraZeneca,66976994
+17410,European Union,2021/8/29,Pfizer/BioNTech,374900585
+17411,European Union,2021/8/29,Sinopharm/Beijing,2085862
+17412,European Union,2021/8/29,Sputnik V,1837474
+17413,European Union,2021/8/30,Johnson&Johnson,13474903
+17414,European Union,2021/8/30,Moderna,52242489
+17415,European Union,2021/8/30,Oxford/AstraZeneca,66983056
+17416,European Union,2021/8/30,Pfizer/BioNTech,375742954
+17417,European Union,2021/8/30,Sinopharm/Beijing,2085862
+17418,European Union,2021/8/30,Sputnik V,1837474
+17419,European Union,2021/8/31,Johnson&Johnson,13501365
+17420,European Union,2021/8/31,Moderna,52425937
+17421,European Union,2021/8/31,Oxford/AstraZeneca,66988777
+17422,European Union,2021/8/31,Pfizer/BioNTech,376608305
+17423,European Union,2021/8/31,Sinopharm/Beijing,2085862
+17424,European Union,2021/8/31,Sputnik V,1837474
+17425,European Union,2021/9/1,Johnson&Johnson,13526524
+17426,European Union,2021/9/1,Moderna,52594048
+17427,European Union,2021/9/1,Oxford/AstraZeneca,66995034
+17428,European Union,2021/9/1,Pfizer/BioNTech,377480256
+17429,European Union,2021/9/1,Sinopharm/Beijing,2085862
+17430,European Union,2021/9/1,Sputnik V,1837474
+17431,European Union,2021/9/2,Johnson&Johnson,13552519
+17432,European Union,2021/9/2,Moderna,52765383
+17433,European Union,2021/9/2,Oxford/AstraZeneca,66999906
+17434,European Union,2021/9/2,Pfizer/BioNTech,378244684
+17435,European Union,2021/9/2,Sinopharm/Beijing,2085862
+17436,European Union,2021/9/2,Sputnik V,1837474
+17437,European Union,2021/9/3,Johnson&Johnson,13729249
+17438,European Union,2021/9/3,Moderna,53493296
+17439,European Union,2021/9/3,Oxford/AstraZeneca,67030718
+17440,European Union,2021/9/3,Pfizer/BioNTech,381140884
+17441,European Union,2021/9/3,Sinopharm/Beijing,2090907
+17442,European Union,2021/9/3,Sputnik V,1838853
+17443,European Union,2021/9/4,Johnson&Johnson,13744492
+17444,European Union,2021/9/4,Moderna,53611995
+17445,European Union,2021/9/4,Oxford/AstraZeneca,67032648
+17446,European Union,2021/9/4,Pfizer/BioNTech,381665647
+17447,European Union,2021/9/4,Sinopharm/Beijing,2090907
+17448,European Union,2021/9/4,Sputnik V,1838853
+17449,European Union,2021/9/5,Johnson&Johnson,13752621
+17450,European Union,2021/9/5,Moderna,53673066
+17451,European Union,2021/9/5,Oxford/AstraZeneca,67033492
+17452,European Union,2021/9/5,Pfizer/BioNTech,381882514
+17453,European Union,2021/9/5,Sinopharm/Beijing,2090907
+17454,European Union,2021/9/5,Sputnik V,1838853
+17455,European Union,2021/9/6,Johnson&Johnson,13769269
+17456,European Union,2021/9/6,Moderna,53813989
+17457,European Union,2021/9/6,Oxford/AstraZeneca,67036992
+17458,European Union,2021/9/6,Pfizer/BioNTech,382476387
+17459,European Union,2021/9/6,Sinopharm/Beijing,2090907
+17460,European Union,2021/9/6,Sputnik V,1838853
+17461,European Union,2021/9/7,Johnson&Johnson,13788650
+17462,European Union,2021/9/7,Moderna,53977614
+17463,European Union,2021/9/7,Oxford/AstraZeneca,67040764
+17464,European Union,2021/9/7,Pfizer/BioNTech,383109494
+17465,European Union,2021/9/7,Sinopharm/Beijing,2090907
+17466,European Union,2021/9/7,Sputnik V,1838853
+17467,European Union,2021/9/8,Johnson&Johnson,13809337
+17468,European Union,2021/9/8,Moderna,54125076
+17469,European Union,2021/9/8,Oxford/AstraZeneca,67043967
+17470,European Union,2021/9/8,Pfizer/BioNTech,383819270
+17471,European Union,2021/9/8,Sinopharm/Beijing,2090907
+17472,European Union,2021/9/8,Sputnik V,1838853
+17473,European Union,2021/9/9,Johnson&Johnson,13831134
+17474,European Union,2021/9/9,Moderna,54282616
+17475,European Union,2021/9/9,Oxford/AstraZeneca,67046649
+17476,European Union,2021/9/9,Pfizer/BioNTech,384468006
+17477,European Union,2021/9/9,Sinopharm/Beijing,2090907
+17478,European Union,2021/9/9,Sputnik V,1838853
+17479,European Union,2021/9/10,Johnson&Johnson,13973178
+17480,European Union,2021/9/10,Moderna,54765763
+17481,European Union,2021/9/10,Oxford/AstraZeneca,67066376
+17482,European Union,2021/9/10,Pfizer/BioNTech,386680254
+17483,European Union,2021/9/10,Sinopharm/Beijing,2094980
+17484,European Union,2021/9/10,Sputnik V,1840028
+17485,European Union,2021/9/11,Johnson&Johnson,13988803
+17486,European Union,2021/9/11,Moderna,54857748
+17487,European Union,2021/9/11,Oxford/AstraZeneca,67067447
+17488,European Union,2021/9/11,Pfizer/BioNTech,387145038
+17489,European Union,2021/9/11,Sinopharm/Beijing,2094980
+17490,European Union,2021/9/11,Sputnik V,1840028
+17491,European Union,2021/9/12,Johnson&Johnson,13996793
+17492,European Union,2021/9/12,Moderna,54893783
+17493,European Union,2021/9/12,Oxford/AstraZeneca,67067931
+17494,European Union,2021/9/12,Pfizer/BioNTech,387351843
+17495,European Union,2021/9/12,Sinopharm/Beijing,2094980
+17496,European Union,2021/9/12,Sputnik V,1840028
+17497,European Union,2021/9/13,Johnson&Johnson,14015183
+17498,European Union,2021/9/13,Moderna,54996043
+17499,European Union,2021/9/13,Oxford/AstraZeneca,67070222
+17500,European Union,2021/9/13,Pfizer/BioNTech,387901982
+17501,European Union,2021/9/13,Sinopharm/Beijing,2094980
+17502,European Union,2021/9/13,Sputnik V,1840028
+17503,European Union,2021/9/14,Johnson&Johnson,14035706
+17504,European Union,2021/9/14,Moderna,55116192
+17505,European Union,2021/9/14,Oxford/AstraZeneca,67073247
+17506,European Union,2021/9/14,Pfizer/BioNTech,388514100
+17507,European Union,2021/9/14,Sinopharm/Beijing,2094980
+17508,European Union,2021/9/14,Sputnik V,1840028
+17509,European Union,2021/9/15,Johnson&Johnson,14058091
+17510,European Union,2021/9/15,Moderna,55223081
+17511,European Union,2021/9/15,Oxford/AstraZeneca,67075614
+17512,European Union,2021/9/15,Pfizer/BioNTech,389210825
+17513,European Union,2021/9/15,Sinopharm/Beijing,2094980
+17514,European Union,2021/9/15,Sputnik V,1840028
+17515,European Union,2021/9/16,Johnson&Johnson,14081941
+17516,European Union,2021/9/16,Moderna,55333175
+17517,European Union,2021/9/16,Oxford/AstraZeneca,67078278
+17518,European Union,2021/9/16,Pfizer/BioNTech,389825952
+17519,European Union,2021/9/16,Sinopharm/Beijing,2094980
+17520,European Union,2021/9/16,Sputnik V,1840028
+17521,European Union,2021/9/17,Johnson&Johnson,14235406
+17522,European Union,2021/9/17,Moderna,55723946
+17523,European Union,2021/9/17,Oxford/AstraZeneca,67095306
+17524,European Union,2021/9/17,Pfizer/BioNTech,391715426
+17525,European Union,2021/9/17,Sinopharm/Beijing,2098577
+17526,European Union,2021/9/17,Sputnik V,1841030
+17527,European Union,2021/9/18,Johnson&Johnson,14251805
+17528,European Union,2021/9/18,Moderna,55805185
+17529,European Union,2021/9/18,Oxford/AstraZeneca,67096264
+17530,European Union,2021/9/18,Pfizer/BioNTech,392153616
+17531,European Union,2021/9/18,Sinopharm/Beijing,2098577
+17532,European Union,2021/9/18,Sputnik V,1841030
+17533,European Union,2021/9/19,Johnson&Johnson,14260410
+17534,European Union,2021/9/19,Moderna,55834865
+17535,European Union,2021/9/19,Oxford/AstraZeneca,67096774
+17536,European Union,2021/9/19,Pfizer/BioNTech,392358655
+17537,European Union,2021/9/19,Sinopharm/Beijing,2098577
+17538,European Union,2021/9/19,Sputnik V,1841030
+17539,European Union,2021/9/20,Johnson&Johnson,14277813
+17540,European Union,2021/9/20,Moderna,55923541
+17541,European Union,2021/9/20,Oxford/AstraZeneca,67098964
+17542,European Union,2021/9/20,Pfizer/BioNTech,392883196
+17543,European Union,2021/9/20,Sinopharm/Beijing,2098577
+17544,European Union,2021/9/20,Sputnik V,1841030
+17545,European Union,2021/9/21,Johnson&Johnson,14298757
+17546,European Union,2021/9/21,Moderna,56027904
+17547,European Union,2021/9/21,Oxford/AstraZeneca,67101089
+17548,European Union,2021/9/21,Pfizer/BioNTech,393478458
+17549,European Union,2021/9/21,Sinopharm/Beijing,2098577
+17550,European Union,2021/9/21,Sputnik V,1841030
+17551,European Union,2021/9/22,Johnson&Johnson,14321485
+17552,European Union,2021/9/22,Moderna,56120314
+17553,European Union,2021/9/22,Oxford/AstraZeneca,67102941
+17554,European Union,2021/9/22,Pfizer/BioNTech,394157961
+17555,European Union,2021/9/22,Sinopharm/Beijing,2098577
+17556,European Union,2021/9/22,Sputnik V,1841030
+17557,European Union,2021/9/23,Johnson&Johnson,14347803
+17558,European Union,2021/9/23,Moderna,56214807
+17559,European Union,2021/9/23,Oxford/AstraZeneca,67104654
+17560,European Union,2021/9/23,Pfizer/BioNTech,394757806
+17561,European Union,2021/9/23,Sinopharm/Beijing,2098577
+17562,European Union,2021/9/23,Sputnik V,1841030
+17563,European Union,2021/9/24,Johnson&Johnson,14505173
+17564,European Union,2021/9/24,Moderna,56563158
+17565,European Union,2021/9/24,Oxford/AstraZeneca,67121261
+17566,European Union,2021/9/24,Pfizer/BioNTech,396376881
+17567,European Union,2021/9/24,Sinopharm/Beijing,2102667
+17568,European Union,2021/9/24,Sputnik V,1841990
+17569,European Union,2021/9/25,Johnson&Johnson,14525236
+17570,European Union,2021/9/25,Moderna,56633900
+17571,European Union,2021/9/25,Oxford/AstraZeneca,67122112
+17572,European Union,2021/9/25,Pfizer/BioNTech,396777760
+17573,European Union,2021/9/25,Sinopharm/Beijing,2102667
+17574,European Union,2021/9/25,Sputnik V,1841990
+17575,European Union,2021/9/26,Johnson&Johnson,14535934
+17576,European Union,2021/9/26,Moderna,56659666
+17577,European Union,2021/9/26,Oxford/AstraZeneca,67122524
+17578,European Union,2021/9/26,Pfizer/BioNTech,396959034
+17579,European Union,2021/9/26,Sinopharm/Beijing,2102667
+17580,European Union,2021/9/26,Sputnik V,1841990
+17581,European Union,2021/9/27,Johnson&Johnson,14557549
+17582,European Union,2021/9/27,Moderna,56730470
+17583,European Union,2021/9/27,Oxford/AstraZeneca,67124505
+17584,European Union,2021/9/27,Pfizer/BioNTech,397424132
+17585,European Union,2021/9/27,Sinopharm/Beijing,2102667
+17586,European Union,2021/9/27,Sputnik V,1841990
+17587,European Union,2021/9/28,Johnson&Johnson,14581803
+17588,European Union,2021/9/28,Moderna,56813984
+17589,European Union,2021/9/28,Oxford/AstraZeneca,67126286
+17590,European Union,2021/9/28,Pfizer/BioNTech,397948499
+17591,European Union,2021/9/28,Sinopharm/Beijing,2102667
+17592,European Union,2021/9/28,Sputnik V,1841990
+17593,European Union,2021/9/29,Johnson&Johnson,14608102
+17594,European Union,2021/9/29,Moderna,56891972
+17595,European Union,2021/9/29,Oxford/AstraZeneca,67128619
+17596,European Union,2021/9/29,Pfizer/BioNTech,398560339
+17597,European Union,2021/9/29,Sinopharm/Beijing,2102667
+17598,European Union,2021/9/29,Sputnik V,1841990
+17599,European Union,2021/9/30,Johnson&Johnson,14636673
+17600,European Union,2021/9/30,Moderna,56984354
+17601,European Union,2021/9/30,Oxford/AstraZeneca,67131015
+17602,European Union,2021/9/30,Pfizer/BioNTech,399117312
+17603,European Union,2021/9/30,Sinopharm/Beijing,2102667
+17604,European Union,2021/9/30,Sputnik V,1841990
+17605,European Union,2021/10/1,Johnson&Johnson,14765709
+17606,European Union,2021/10/1,Moderna,57232847
+17607,European Union,2021/10/1,Oxford/AstraZeneca,67140493
+17608,European Union,2021/10/1,Pfizer/BioNTech,400547685
+17609,European Union,2021/10/1,Sinopharm/Beijing,2106695
+17610,European Union,2021/10/1,Sputnik V,1842782
+17611,European Union,2021/10/2,Johnson&Johnson,14780423
+17612,European Union,2021/10/2,Moderna,57290461
+17613,European Union,2021/10/2,Oxford/AstraZeneca,67141116
+17614,European Union,2021/10/2,Pfizer/BioNTech,400838747
+17615,European Union,2021/10/2,Sinopharm/Beijing,2106695
+17616,European Union,2021/10/2,Sputnik V,1842782
+17617,European Union,2021/10/3,Johnson&Johnson,14789232
+17618,European Union,2021/10/3,Moderna,57309360
+17619,European Union,2021/10/3,Oxford/AstraZeneca,67141409
+17620,European Union,2021/10/3,Pfizer/BioNTech,400955869
+17621,European Union,2021/10/3,Sinopharm/Beijing,2106695
+17622,European Union,2021/10/3,Sputnik V,1842782
+17623,European Union,2021/10/4,Johnson&Johnson,14807831
+17624,European Union,2021/10/4,Moderna,57366686
+17625,European Union,2021/10/4,Oxford/AstraZeneca,67142783
+17626,European Union,2021/10/4,Pfizer/BioNTech,401344661
+17627,European Union,2021/10/4,Sinopharm/Beijing,2106695
+17628,European Union,2021/10/4,Sputnik V,1842782
+17629,European Union,2021/10/5,Johnson&Johnson,14830529
+17630,European Union,2021/10/5,Moderna,57441360
+17631,European Union,2021/10/5,Oxford/AstraZeneca,67144220
+17632,European Union,2021/10/5,Pfizer/BioNTech,401812264
+17633,European Union,2021/10/5,Sinopharm/Beijing,2106695
+17634,European Union,2021/10/5,Sputnik V,1842782
+17635,European Union,2021/10/6,Johnson&Johnson,14852708
+17636,European Union,2021/10/6,Moderna,57506906
+17637,European Union,2021/10/6,Oxford/AstraZeneca,67145138
+17638,European Union,2021/10/6,Pfizer/BioNTech,402330924
+17639,European Union,2021/10/6,Sinopharm/Beijing,2106695
+17640,European Union,2021/10/6,Sputnik V,1842782
+17641,European Union,2021/10/7,Johnson&Johnson,14877503
+17642,European Union,2021/10/7,Moderna,57582277
+17643,European Union,2021/10/7,Oxford/AstraZeneca,67145973
+17644,European Union,2021/10/7,Pfizer/BioNTech,402816873
+17645,European Union,2021/10/7,Sinopharm/Beijing,2106695
+17646,European Union,2021/10/7,Sputnik V,1842782
+17647,European Union,2021/10/8,Johnson&Johnson,14936258
+17648,European Union,2021/10/8,Moderna,57654774
+17649,European Union,2021/10/8,Oxford/AstraZeneca,67150636
+17650,European Union,2021/10/8,Pfizer/BioNTech,403490893
+17651,European Union,2021/10/8,Sinopharm/Beijing,2108368
+17652,European Union,2021/10/8,Sputnik V,1843001
+17653,European Union,2021/10/9,Johnson&Johnson,14937080
+17654,European Union,2021/10/9,Moderna,57676732
+17655,European Union,2021/10/9,Oxford/AstraZeneca,67150901
+17656,European Union,2021/10/9,Pfizer/BioNTech,403612939
+17657,European Union,2021/10/9,Sinopharm/Beijing,2108368
+17658,European Union,2021/10/9,Sputnik V,1843001
