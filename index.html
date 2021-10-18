@@ -15,7 +15,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap" rel="stylesheet">
 
   <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+  <link rel="stylesheet" type="text/css" href="CSS/styles.css" media="all">
 
 
 </head>
@@ -25,7 +25,7 @@
 
    <!-- pure grid group -->
     <div class="pure-g">
-      <div class="pure-u-1-2">
+      <div class="pure-u-1-1">
         <h1>Global COVID-19 vaccination status</h1>
         <p>In this data visualization, maps are used to show our world's COVID-19 vaccination status, including the distribution of the total number of people in the world who have been vaccinated. Bubble plots are used to show the number of people recovering from COVID-19 in different continents, as well as the proportion of different brands of vaccines used in Europe and the proportion of different brands of vaccines in several major countries in the world over time.</p>
       </div>
@@ -33,53 +33,95 @@
   <!-- end pure grid group -->
 
     <!-- pure grid group -->
+ <div class="pure-g">
+  <div class="pure-u-1-1">
+    <p>--------------------------------------------------------------------------------------------------------------------------</p>
+  </div>
+</div>
+<!-- end pure grid group -->
+
+    <!-- pure grid group -->
     <div class="pure-g">
         <div class="pure-u-1-3">
-          <div class="description-left">
+          <div class="description description-left">
             <h2>Total number of people who received at least one vaccine dose around the world</h2>
-            <p>The vaccine data is presented on a map with labels on the right. And we can see more visually that the darker blue areas are where the most people have registered for the vaccine. (Areas without data are marked in gray) </p>
+            <p>The vaccine data is presented on a map with labels on the right. And we can see more visually that the darker blue areas are where the most people have registered for the vaccine. (Areas without data are marked in greay). </p>
           </div>
         </div>
-        <div class="pure-u-1-3">
+        <div class="pure-u-2-3">
           <div id="vis1" class="vis-container"></div>
         </div>
     </div>
     <!-- end pure grid group -->
 
+ <!-- pure grid group -->
+ <div class="pure-g">
+  <div class="pure-u-1-1">
+    <p>--------------------------------------------------------------------------------------------------------------------------</p>
+  </div>
+</div>
+<!-- end pure grid group -->
+
     <!-- pure grid group -->
     <div class="pure-g">
-        <div class="pure-u-1-3">
+        <div class="pure-u-2-3">
           <div id="vis2"  class="vis-container"></div>
         </div>
         <div class="pure-u-1-3">
-          <!-- <div class="description-left"> -->
+          <div class="description description-right">
             <h2>The number of people on different continents who have recovered from COVID-19</h2>
             <p>We can see the number of people who have recovered from COVID-19 in different continents, as well as the number of people who have recovered from COVID-19 in the corresponding country by selecting the name of a G7 country from the selection bar.</p>
           </div>
         </div>
       
     </div>
-    <!-- end pure grid group-->
+    <!-- end pure grid group -->
 
-    <!-- pure grid group -->
-    <div class="pure-g">
-        <div class="pure-u-1-3">
-          <div class="description description-left">
-            <h2>Explore the use of different brands of vaccines in Europe and some countries</h2>
-            <p>The chart on the left shows the proportion of different brands in some countries. We found that Pfizer accounts for far more than any other brand, particularly in the European Union. Pfizer and Moderna have a similar share of vaccine use in the U.S., and a small amount of J&J vaccine is used in the U.S.The chart on the right shows the proportion of different brands of vaccine used in Europe over time. It can be found that from the end of 2020 to October 2021, Pfizer vaccines accounted for the largest proportion in Europe, followed by Oxford/AstraZeneca vaccines and Sinopharm/Beijing and Sputnik V vaccines.</p>
-          </div>
-        </div>
-        <div class="pure-u-1-3">
-          <div id="vis3"  class="vis-container"></div>
-        </div>
-        <div class="pure-u-1-3">
-          <div id="vis4"  class="vis-container"></div>
-        </div>
-      
+<!-- pure grid group -->
+<div class="pure-g">
+  <div class="pure-u-1-1">
+    <p>--------------------------------------------------------------------------------------------------------------------------</p>
+  </div>
+</div>
+<!-- end pure grid group -->
+
+
+  <!-- pure grid group -->
+  <div class="pure-g">
+    <div class="pure-u-1-3">
+      <div class="description description-left">
+        <h2>Explore the use of different brands of vaccines in Europe</h2>
+        <p>The chart shows the proportion of different brands in some countries. We found that Pfizer accounts for far more than any other brand, particularly in the European Union. Pfizer and Moderna have a similar share of vaccine use in the U.S., and a small amount of J&J vaccine is used in the U.S. </p>
       </div>
-      <!-- end pure grid group -->
+    </div>
+    <div class="pure-u-2-3">
+      <div id="vis3" class="vis-container"></div>
+    </div>
+</div>
+<!-- end pure grid group -->
 
-     
+  <!-- pure grid group -->
+ <div class="pure-g">
+  <div class="pure-u-1-1">
+    <p>--------------------------------------------------------------------------------------------------------------------------</p>
+  </div>
+</div>
+<!-- end pure grid group -->
+
+  <!-- pure grid group -->
+  <div class="pure-g">
+    <div class="pure-u-2-3">
+      <div id="vis4"  class="vis-container"></div>
+    </div>
+    <div class="pure-u-1-3">
+      <div class="description description-right">
+        <h2>Explore the use of different brands of vaccines in some countries</h2>
+        <p>The chart shows the proportion of different brands of vaccine used in Europe over time. It can be found that from the end of 2020 to October 2021, Pfizer vaccines accounted for the largest proportion in Europe, followed by Oxford/AstraZeneca vaccines and Sinopharm/Beijing and Sputnik V vaccines.</p>
+      </div>
+    </div>
+  
+</div>
+<!-- end pure grid group -->
   
     <div class="pure-g">
       <div class="pure-u-1-1 small-font">
@@ -90,13 +132,15 @@
 
   </div> <!-- end page -->
    
-<script type="text/javascript">
-  var specVis1 = "Vaccinated people in the world.json";
-  var specVis2= "Total Recovered.json";
-  var specVis3= "Vaccines for seven countries.json";
-  var specVis4= "Vaccine brands used in Europe.json";
+  <script type="text/javascript">
+    var specVis1 = "Vaccinated people in the world.json";
+    var specVis2= "Total Recovered.json";
+    var specVis3= "Vaccines for seven countries.json";
+    var specVis4= "Vaccine brands used in Europe.json";
 
-  vegaEmbed('#vis1', specVis1, {"actions": false});
+  vegaEmbed('#vis1', specVis1, {"actions": false}).then(function(result) {
+    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+  }).catch(console.error);
   
    vegaEmbed('#vis2', specVis2, {"actions": false}).then(function(result) {
     // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
@@ -112,4 +156,3 @@
 </script>
 </body>
 </html>
-
