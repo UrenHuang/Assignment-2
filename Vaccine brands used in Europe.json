@@ -1,0 +1,19 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "The proportion of different vaccine brands used in Europe over time",
+  "data": {"url": "https://raw.githubusercontent.com/UrenHuang/Assignment-2/main/data_EuropeanUnion.csv"},
+  "width": "container",
+  "mark": "area",
+  "encoding": {
+    "x": {
+      "timeUnit": "yearmonth", "field": "date",
+      "axis": {"domain": true, "format": "%Y-%m"}
+    },
+    "y": {
+      "aggregate": "sum", "field": "total_vaccinations",
+      "stack": "normalize"
+
+    },
+    "color": {"field":"vaccine", "scale":{"range": ["#8dd3c7", "#bebada", "#4575b4", "#80b1d3","#b3de69", "#fdb462"]}}
+  }
+}
